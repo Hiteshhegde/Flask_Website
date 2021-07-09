@@ -1,2 +1,2 @@
-# Flask_JobFinder
-## Basic website with full functionality written in Flask
+## Flask_Website
+### Basic website with full functionality written in Flask
