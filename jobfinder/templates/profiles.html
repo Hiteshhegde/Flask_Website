@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Profile Page</h2>
+  {% for profile in profiles %}
+  <div class="card w-50">
+    <div class="card-body">
+      
+      <h5 class="card-title">{{ profile.user_profilename }}</h5>
+      <p class="card-text">{{ profile.user_jobtype }}</p>
+      <a href='#' class="card-link">View job</a>
+      
+    </div>
+  </div>
+  {% endfor %}
+{% endblock content %}

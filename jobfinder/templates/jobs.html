@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2>Recent Jobs </h2>
+  {% for job in jobs %}
+  <div class="card w-50">
+    <div class="card-body">
+      
+      <h5 class="card-title">{{ job.position }}</h5>
+      <p class="card-text">{{ job.company }}</p>
+      <a href="{{ job.joburl }}" class="card-link">View job</a>
+      
+    </div>
+  </div>
+  {% endfor %}
+{% endblock content %}
