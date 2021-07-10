@@ -59,6 +59,10 @@ These commands creates a schema in the database
 
 ### *Running the app*  
 
+Before running the app we have to connect the db to flask app. We can do so by changing the DATABASE URL in the **\__init\__.py** file inside the jobfinder folder:  
+***DATABASE_URL = "postgresql://yourusername:password@yourIP:yourport/yourdbname"***   
+
+
 Run the following command from the root of project directory  
 ***python3 manage.py runserver***  
 
