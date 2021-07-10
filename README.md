@@ -1,5 +1,7 @@
 ## Flask_Website
 ### Basic website with full functionality  written in Flask
+##### Built using Flask Python and Postgres.
+
 
 ### *Setting up Postgres*
 Install postgres using the below command:  
@@ -20,7 +22,7 @@ Grant privileges on the database to the user which you created in the previous c
 Run following to exit from psql:  
 ***\q***  
 
-Enable remote access to postgresql,by editing:  
+To Enable remote access to postgresql,by editing:  
 ***sudo vi /etc/postgresql/10/main/postgresql.conf***  
 
 Change the line :  
