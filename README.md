@@ -33,19 +33,13 @@ Save and exit the file
 Restart postgresql:  
 ***sudo /etc/init.d/postgresql restart***  
 
-## *Activate existing python3 virtual environment which includes all packages.*
+## *Create Virtual environment and installing packages using requirements.txt*  
 
-Go into the cloned directory:  
-***cd Flask_Website***  
-
-Type the follwing command and you are in virtual env:  
-***source env/bin/activate***
-
-### *Create Virtual environment and installing packages using requirements.txt*  
-
-Make a folder and create virutal env as so:  
+Execute these commands in your terminal creates a new folder:  
 ***mkdir new_folder***    
 ***cd new_folder***  
+
+Execute these commands to create virtual environment:  
 ***python3 -m venv env***  
 ***source env/bin/activate***  
 
