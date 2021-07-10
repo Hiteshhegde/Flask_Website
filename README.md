@@ -51,19 +51,19 @@ Install requirements.txt using pip:
 
 ### *Database Migration*  
 
-Run the following commands in terminal: 
+Run the following commands in terminal:  
 These commands creates a schema in the database  
-***python3 manage.py db init***
-***python3 manage.py db migrate***
-***python3 manage.py db upgrade***
+***python3 manage.py db init***  
+***python3 manage.py db migrate***  
+***python3 manage.py db upgrade***  
 
-### *Running the app*
+### *Running the app*  
 
-Run the following command from the root of project directory
+Run the following command from the root of project directory  
 ***python3 manage.py runserver***  
 
 Now Open the browser and hit the url:  
-***- localhost:5000***
+***- localhost:5000***  
 
-or the one in your terminal.
+or the one in your terminal.  
 
