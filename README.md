@@ -33,7 +33,7 @@ Restart postgresql:
 ### *Activate existing python3 virtual environment which includes all packages.*
 
 Go into the cloned directory:  
-***cd nhunt***  
+***cd Flask_Website***  
 
 Type the follwing command and you are in virtual env:  
 ***source env/bin/activate***
