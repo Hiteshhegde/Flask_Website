@@ -49,7 +49,7 @@ Make a folder and create virutal env as so:
 ***source env/bin/activate***  
 
 Install requirements.txt using pip:  
-***pip install requirements.txt***  
+***pip install -r requirements.txt***  
 
 ### *Database Migration*  
 
