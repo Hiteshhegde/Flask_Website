@@ -1,5 +1,5 @@
-## Flask_Website
-### Basic website with full functionality  written in Flask
+# Flask_Website
+## Basic website with full functionality  written in Flask
 ##### Built using Flask Python and Postgres.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
