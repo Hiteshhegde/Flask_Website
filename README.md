@@ -1,9 +1,13 @@
-## Flask_Website
-### Basic website with full functionality  written in Flask
+# Flask_Website
+## Basic website with full functionality  written in Flask
 ##### Built using Flask Python and Postgres.
-
-
-### *Setting up Postgres*
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+  
+  
+## *Setting up Postgres*
 Install postgres using the below command:  
 ***sudo apt-get install postgresql postgresql-contrib***  
 
@@ -32,26 +36,20 @@ Save and exit the file
 Restart postgresql:  
 ***sudo /etc/init.d/postgresql restart***  
 
-### *Activate existing python3 virtual environment which includes all packages.*
+## *Create Virtual environment and installing packages using requirements.txt*  
 
-Go into the cloned directory:  
-***cd Flask_Website***  
-
-Type the follwing command and you are in virtual env:  
-***source env/bin/activate***
-
-### *Create Virtual environment and installing packages using requirements.txt*  
-
-Make a folder and create virutal env as so:  
+Execute these commands in your terminal creates a new folder:  
 ***mkdir new_folder***    
 ***cd new_folder***  
+
+Execute these commands to create virtual environment:  
 ***python3 -m venv env***  
 ***source env/bin/activate***  
 
 Install requirements.txt using pip:  
-***pip install requirements.txt***  
+***pip install -r requirements.txt***  
 
-### *Database Migration*  
+## *Database Migration*  
 
 Run the following commands in terminal:  
 These commands creates a schema in the database  
@@ -59,7 +57,7 @@ These commands creates a schema in the database
 ***python3 manage.py db migrate***  
 ***python3 manage.py db upgrade***  
 
-### *Running the app*  
+## *Running the app*  
 
 Before running the app we have to connect the db to flask app. We can do so by changing the DATABASE URL in the **\__init\__.py** file inside the jobfinder folder:  
 ***DATABASE_URL = "postgresql://yourusername:password@yourIP:yourport/yourdbname"***   
