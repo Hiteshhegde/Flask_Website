@@ -40,7 +40,6 @@ def dashboard():
 
 # Rendering scraped Jobs at /jobs endpoint 
 @app.route("/jobs", methods=['GET'])
-@login_required
 def jobs():
     try:
         jobs = Job.query.all()

@@ -1,0 +1,564 @@
+_id,jobid,position,location,company,remote,status,description,joburl,category,subcategory,tags
+1,cd1eaa85-3a21-4bf3-8f33-07f3a7181ef7,3D Artist ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/cd1eaa85-3a21-4bf3-8f33-07f3a7181ef7,Art,Art,tags
+2,2e4d7fda-6576-4f51-8a60-224b6683dd58,Art Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/2e4d7fda-6576-4f51-8a60-224b6683dd58,Manager,Art,tags
+3,a16c6567-f1df-464d-b7f5-a8c0bc1a3b49,Art Manager ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/a16c6567-f1df-464d-b7f5-a8c0bc1a3b49,Manager,Art,tags
+4,a45bb4e5-9bd1-4810-88c6-2e144e1b7ca3,Concept Artist ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/a45bb4e5-9bd1-4810-88c6-2e144e1b7ca3,Art,Art,tags
+5,1dd60179-fc58-4a9d-b3e1-236fce938c1f,Concept Artist ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/1dd60179-fc58-4a9d-b3e1-236fce938c1f,Art,Art,tags
+6,30be24f9-a2b7-4037-8ada-65d08bd832a3,Senior 3D Artist ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/30be24f9-a2b7-4037-8ada-65d08bd832a3,Art,Art,tags
+7,3a8d110e-aaf1-4048-adc1-1e07d74df82a,Senior Environment Artist - Unreal Engine ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/3a8d110e-aaf1-4048-adc1-1e07d74df82a,Art,Unreal Engine,tags
+8,69ca5658-e845-466f-8406-57353f03b2fc,Senior Environment Artist - Unreal Engine ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/69ca5658-e845-466f-8406-57353f03b2fc,Art,Unreal Engine,tags
+9,fbe74181-93f3-47fb-8b04-cfcefc617415,Senior Environment Artist - Unreal Engine ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/fbe74181-93f3-47fb-8b04-cfcefc617415,Art,Unreal Engine,tags
+10,126f172d-bf5f-4c01-ac84-8dfc7c08770c,Account Executive ,Remote,na,True,True,na,https://jobs.lever.co/rw1/126f172d-bf5f-4c01-ac84-8dfc7c08770c,Business,Business Development,tags
+11,bcbb3b64-e700-4c74-90d8-14e4df926735,Account Executive ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/bcbb3b64-e700-4c74-90d8-14e4df926735,Business,Business Development,tags
+12,b6846e95-0858-40de-af32-3d9763a5620d,Account Executive ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/b6846e95-0858-40de-af32-3d9763a5620d,Business,Business Development,tags
+13,ee19a926-bcb9-4674-8c22-794e126dd2b2,Business Development Associate ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/ee19a926-bcb9-4674-8c22-794e126dd2b2,Business,Business Development,tags
+14,6a02321f-9cfb-4575-8fbf-ca527fe309cd,Business Development Associate ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/6a02321f-9cfb-4575-8fbf-ca527fe309cd,Business,Business Development,tags
+15,b9f3f93d-2e28-4796-a7c0-b39c7d0f1f1c,Business Development Associate ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/b9f3f93d-2e28-4796-a7c0-b39c7d0f1f1c,Business,Business Development,tags
+16,796cc014-a9b3-40fc-b312-7f58340dbe8e,Business Development Associate ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/796cc014-a9b3-40fc-b312-7f58340dbe8e,Business,Business Development,tags
+17,8d8f7a86-ac84-44d5-9746-483bd8baefeb,Sales Intelligence Associate ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/8d8f7a86-ac84-44d5-9746-483bd8baefeb,Business,Business Development,tags
+18,7faa2a58-63b5-4826-882c-91295d8c21ab,Sales Intelligence Associate ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/7faa2a58-63b5-4826-882c-91295d8c21ab,Business,Business Development,tags
+19,f9d0bc18-4966-45f8-950b-bbe1da77b11d,Commercial Strategy Intern ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/f9d0bc18-4966-45f8-950b-bbe1da77b11d,Commercial,Operations,tags
+20,672c91dd-2ac2-472b-85d5-3bf9ff55a10f,Commercial Strategy Intern ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/672c91dd-2ac2-472b-85d5-3bf9ff55a10f,Commercial,Operations,tags
+21,a224c3bf-61bb-46bc-b035-dd042aa7aa34,Key Account Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/a224c3bf-61bb-46bc-b035-dd042aa7aa34,Manager,Operations,tags
+22,de11d85f-5c5e-44c9-80ce-36d06749845e,Key Account Manager ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/de11d85f-5c5e-44c9-80ce-36d06749845e,Manager,Operations,tags
+23,6d7133a5-3a91-4c50-ba53-ee0452130d0a,VR Background Actor ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/6d7133a5-3a91-4c50-ba53-ee0452130d0a,Commercial,VR,tags
+24,f77bc39d-cf0c-4a45-bea0-cedce4d98106,Junior Unreal Engine Developer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/f77bc39d-cf0c-4a45-bea0-cedce4d98106,Developer,Unreal Engine,tags
+25,e12da11f-fe5c-4359-bce4-bce6ee7123f6,Junior Unreal Engine Developer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/e12da11f-fe5c-4359-bce4-bce6ee7123f6,Developer,Unreal Engine,tags
+26,b2f6102f-bc1f-4f4a-88d1-610109b1eaa2,Junior Unreal Engine Developer ,Remote,na,True,True,na,https://jobs.lever.co/rw1/b2f6102f-bc1f-4f4a-88d1-610109b1eaa2,Developer,Unreal Engine,tags
+27,c2646c11-e78e-481c-a600-93901b3579bf,Lead Unreal Engine Developer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/c2646c11-e78e-481c-a600-93901b3579bf,Developer,Unreal Engine,tags
+28,6c954fd1-8c24-4168-a96d-b1e37d2207b1,Lead Unreal Engine Developer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/6c954fd1-8c24-4168-a96d-b1e37d2207b1,Developer,Unreal Engine,tags
+29,ee5c68ef-e04c-4bbf-8861-02a1e71d70a2,Lead Unreal Engine Developer ,Remote,na,True,True,na,https://jobs.lever.co/rw1/ee5c68ef-e04c-4bbf-8861-02a1e71d70a2,Developer,Unreal Engine,tags
+30,5d6f3180-cd02-48d2-b8de-f1277a0ab6ff,Senior Unreal Engine Developer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/5d6f3180-cd02-48d2-b8de-f1277a0ab6ff,Developer,Unreal Engine,tags
+31,a43ae183-7a1a-4bb6-8d2e-563d2178b94f,Senior Unreal Engine Developer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/a43ae183-7a1a-4bb6-8d2e-563d2178b94f,Developer,Unreal Engine,tags
+32,a5bc398d-8346-4d88-975e-cdfe950b74e3,Senior Unreal Engine Developer ,Remote,na,True,True,na,https://jobs.lever.co/rw1/a5bc398d-8346-4d88-975e-cdfe950b74e3,Developer,Unreal Engine,tags
+33,3860a607-bdd0-44f3-b2ee-0481c3d88208,Unreal Engine Developer - Blueprints ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/3860a607-bdd0-44f3-b2ee-0481c3d88208,Developer,Unreal Engine,tags
+34,e4cf0b33-c262-4f25-9139-2d335478f8f6,Unreal Engine Developer - Blueprints ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/e4cf0b33-c262-4f25-9139-2d335478f8f6,Developer,Unreal Engine,tags
+35,ac44fcd9-ec9c-492b-b8ff-1abe04468f50,Unreal Engine Developer - Blueprints ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/ac44fcd9-ec9c-492b-b8ff-1abe04468f50,Developer,Unreal Engine,tags
+36,4d929cf3-b4dd-4dfa-9ba1-6b5b730d3a5c,Unreal Engine Developer - Blueprints ,Remote,na,True,True,na,https://jobs.lever.co/rw1/4d929cf3-b4dd-4dfa-9ba1-6b5b730d3a5c,Developer,Unreal Engine,tags
+37,e20c88a9-5038-476e-85b0-9f5084726706,Customer Success Associate,Austin,na,False,True,na,https://jobs.lever.co/rw1/e20c88a9-5038-476e-85b0-9f5084726706,Management,Customer,tags
+38,11fa3a40-fd74-443c-8c9a-2b9a5d39ab51,Customer Success Associate ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/11fa3a40-fd74-443c-8c9a-2b9a5d39ab51,Management,Customer,tags
+39,94a9beca-ec88-43ea-abe5-48a3b031409d,Customer Success Associate ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/94a9beca-ec88-43ea-abe5-48a3b031409d,Management,Customer,tags
+40,0d73e123-249b-4e45-971a-38ed0c560527,Customer Success Associate ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/0d73e123-249b-4e45-971a-38ed0c560527,Management,Customer,tags
+41,e78bca2f-bc4b-4094-a85f-eacb78c44c0d,Customer Success Manager,Austin,na,False,True,na,https://jobs.lever.co/rw1/e78bca2f-bc4b-4094-a85f-eacb78c44c0d,Manager,Customer,tags
+42,483dc29a-f23b-4969-afa6-499d1a5e5af7,Customer Success Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/483dc29a-f23b-4969-afa6-499d1a5e5af7,Manager,Customer,tags
+43,4290b87a-a471-42b4-a6e4-77c9bc2ee71a,Customer Success Manager ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/4290b87a-a471-42b4-a6e4-77c9bc2ee71a,Manager,Customer,tags
+44,10a05da6-6cdb-4bc4-b879-3fdea5d71fdb,Instructional Designer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/10a05da6-6cdb-4bc4-b879-3fdea5d71fdb,Management,Customer,tags
+45,d42f3a86-3fd9-41a7-a958-2668c260f6a7,Lead Customer Success Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/d42f3a86-3fd9-41a7-a958-2668c260f6a7,Manager,Customer,tags
+46,54accaba-35aa-4eec-a690-50dde18932f1,Lead Customer Success Manager ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/54accaba-35aa-4eec-a690-50dde18932f1,Manager,Customer,tags
+47,9cfb96e2-cec5-4287-b18c-b30d0434c179,Project Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/9cfb96e2-cec5-4287-b18c-b30d0434c179,Manager,Customer,tags
+48,4e539c15-2af5-44a2-8c5d-fcebb11770dd,Project Manager ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/4e539c15-2af5-44a2-8c5d-fcebb11770dd,Manager,Customer,tags
+49,17e360d3-6b40-44de-a7a4-2c6595c0d7a2,Junior Designer - AR/VR ,Remote,na,True,True,na,https://jobs.lever.co/rw1/17e360d3-6b40-44de-a7a4-2c6595c0d7a2,Art,VR,tags
+50,31bcf3b9-2a66-4684-9465-1bc5ce762c04,Junior Designer - AR/VR ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/31bcf3b9-2a66-4684-9465-1bc5ce762c04,Art,VR,tags
+51,1d111084-e86a-4957-875d-8d78a1b62181,Junior Designer - AR/VR ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/1d111084-e86a-4957-875d-8d78a1b62181,Art,VR,tags
+52,80c935ea-c398-48b0-bbf0-6f4a32cba42f,Senior Designer - AR/VR ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/80c935ea-c398-48b0-bbf0-6f4a32cba42f,Art,VR,tags
+53,8e5f0d48-1f50-4b1e-987f-071e107b11a1,Senior Designer - AR/VR ,Remote,na,True,True,na,https://jobs.lever.co/rw1/8e5f0d48-1f50-4b1e-987f-071e107b11a1,Art,VR,tags
+54,aedae831-970a-4683-9ecb-012c0c5b4747,Senior Designer - AR/VR ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/aedae831-970a-4683-9ecb-012c0c5b4747,Art,VR,tags
+55,6620a018-9aa4-446d-aaa9-880088ee0ccb,Junior Talent Acquisition Representative ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/6620a018-9aa4-446d-aaa9-880088ee0ccb,Human Resource,Human Resource,tags
+56,18527121-2bc9-467d-8e59-c66acf7c39b1,People & Talent Development Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/18527121-2bc9-467d-8e59-c66acf7c39b1,Manager,Human Resource,tags
+57,434f9427-cbc3-4895-840b-c375c1112f1e,Senior Recruiter ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/434f9427-cbc3-4895-840b-c375c1112f1e,Human Resource,Recruiting,tags
+58,98b9fce5-faf5-479c-ac53-99d6845e86db,Senior Recruiter ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/98b9fce5-faf5-479c-ac53-99d6845e86db,Human Resource,Recruiting,tags
+59,1298448b-3133-4ae3-812d-92badad81a11,Talent Acquisition Intelligence Associate ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/1298448b-3133-4ae3-812d-92badad81a11,Human Resource,Human Resource,tags
+60,e93ab3aa-0d63-4a57-a0a0-16ab04e99f9d,Talent Acquisition Intelligence Associate ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/e93ab3aa-0d63-4a57-a0a0-16ab04e99f9d,Human Resource,Human Resource,tags
+61,f0cc70e8-6ccb-4171-b0a6-75056a66cd5a,Talent Acquisition Intelligence Specialist ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/f0cc70e8-6ccb-4171-b0a6-75056a66cd5a,Human Resource,Human Resource,tags
+62,429203c6-96e5-4475-9a34-b4930566b5fe,Talent Acquisition Intelligence Specialist ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/429203c6-96e5-4475-9a34-b4930566b5fe,Human Resource,Human Resource,tags
+63,324c1f18-294a-47c0-a75f-60b3e92d5ebb,Talent Acquisition Intelligence Specialist ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/324c1f18-294a-47c0-a75f-60b3e92d5ebb,Human Resource,Human Resource,tags
+64,9aa9b225-ed0a-460a-ac00-b324bbbdfe4b,Talent Acquisition Representative ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/9aa9b225-ed0a-460a-ac00-b324bbbdfe4b,Human Resource,Human Resource,tags
+65,97e47aab-4b82-44fa-82d1-36bf02b67f48,Talent Acquisition Representative ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/97e47aab-4b82-44fa-82d1-36bf02b67f48,Human Resource,Human Resource,tags
+66,95624087-0d5d-4ace-9b51-d61deb8699ad,Junior IT Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/95624087-0d5d-4ace-9b51-d61deb8699ad,Engineering,Operations,tags
+67,ad8e5bc1-f841-48f5-874c-636f010939c1,Legal Counsel ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/ad8e5bc1-f841-48f5-874c-636f010939c1,Operations,Operations,tags
+68,5a8e6d1e-fa13-41ec-830d-b1fe39b732b3,Legal Counsel ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/5a8e6d1e-fa13-41ec-830d-b1fe39b732b3,Operations,Operations,tags
+69,2990372f-ec27-43d0-a4bd-d8b464220592,Office Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/2990372f-ec27-43d0-a4bd-d8b464220592,Manager,Operations,tags
+70,ae8dcb32-f35a-4bb5-9a6b-1f8f50eac723,Security Operations Analyst ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/ae8dcb32-f35a-4bb5-9a6b-1f8f50eac723,Operations,Operations,tags
+71,530b13fe-a074-412b-aedc-0b755e86824b,Junior Producer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/530b13fe-a074-412b-aedc-0b755e86824b,Production,Product,tags
+72,238fbee7-a6a4-47d1-a943-ac0767021a67,Junior Producer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/238fbee7-a6a4-47d1-a943-ac0767021a67,Production,Product,tags
+73,bc1beba4-dd86-4405-b8e2-61adb62e1bfb,Producer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/bc1beba4-dd86-4405-b8e2-61adb62e1bfb,Production,Product,tags
+74,3aad87fa-e056-405e-81be-2b730118437f,Producer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/3aad87fa-e056-405e-81be-2b730118437f,Production,Product,tags
+75,029eef3c-bb4a-424a-a7d4-e47f0c601379,Production Assistant ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/029eef3c-bb4a-424a-a7d4-e47f0c601379,Production,Product,tags
+76,d7723161-4b00-415b-9597-2da88350b4c3,Senior Producer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/d7723161-4b00-415b-9597-2da88350b4c3,Production,Product,tags
+77,6b9683b2-4a06-4ff7-bf7f-4c269690ccd0,Senior Producer ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/6b9683b2-4a06-4ff7-bf7f-4c269690ccd0,Production,Product,tags
+78,416f751e-4e61-4eae-bb00-914f2fd3f0cc,Senior Producer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/416f751e-4e61-4eae-bb00-914f2fd3f0cc,Production,Product,tags
+79,227fca38-df8d-47e6-81c3-b8bdb4c95315,AR Programmer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/227fca38-df8d-47e6-81c3-b8bdb4c95315,Engineering,AR,tags
+80,d5524d74-a7f4-4fc8-8a33-700e9ca43149,Associate Product Manager ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/d5524d74-a7f4-4fc8-8a33-700e9ca43149,Manager,Product,tags
+81,42d03859-d79a-4a77-ba69-3381b473bdf3,Frontend Engineer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/42d03859-d79a-4a77-ba69-3381b473bdf3,Engineering,Frontend,tags
+82,4b4ce522-7ea8-44b6-a6c1-bdf0e04a3eac,Frontend Engineer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/4b4ce522-7ea8-44b6-a6c1-bdf0e04a3eac,Engineering,Frontend,tags
+83,41a53e2d-1f4b-43b5-85f7-16ba466e94ce,Senior Backend Engineer - Augmented Reality ,Remote,na,True,True,na,https://jobs.lever.co/rw1/41a53e2d-1f4b-43b5-85f7-16ba466e94ce,Engineering,Backend,tags
+84,c4c18e28-15a2-4118-9617-590a29d99147,Senior Backend Engineer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/c4c18e28-15a2-4118-9617-590a29d99147,Engineering,Backend,tags
+85,a5ea39bd-5fca-415e-baf3-293ac20d7509,Senior Backend Engineer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/a5ea39bd-5fca-415e-baf3-293ac20d7509,Engineering,Backend,tags
+86,0213e6b9-21fd-4d17-9149-dbccbd9bd366,Senior Backend Engineer ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/0213e6b9-21fd-4d17-9149-dbccbd9bd366,Engineering,Backend,tags
+87,76f311ee-2c79-4252-84d6-bdc78d134c72,Senior DevOps Engineer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/76f311ee-2c79-4252-84d6-bdc78d134c72,Engineering,Operations,tags
+88,021c4d92-e150-4649-8c5b-5c54fdeddee1,Senior DevOps Engineer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/021c4d92-e150-4649-8c5b-5c54fdeddee1,Engineering,Operations,tags
+89,825d571e-3724-4c96-bba8-a6bd312f2dab,Senior DevOps Engineer ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/825d571e-3724-4c96-bba8-a6bd312f2dab,Engineering,Operations,tags
+90,3c9ab99d-d324-4ad3-83e2-db8b4ad7888a,Senior Frontend Engineer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/3c9ab99d-d324-4ad3-83e2-db8b4ad7888a,Engineering,Frontend,tags
+91,06192576-cb52-4d07-bcf3-9791c9ddabac,Senior Frontend Engineer ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/06192576-cb52-4d07-bcf3-9791c9ddabac,Engineering,Frontend,tags
+92,44fe4a69-ad73-4d51-aa44-df93dcb0cbd2,Senior Frontend Engineer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/44fe4a69-ad73-4d51-aa44-df93dcb0cbd2,Engineering,Frontend,tags
+93,dc5138b3-1051-434e-a0d8-dc0096e5d0a1,Senior Unreal Engineer - Augmented Reality ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/dc5138b3-1051-434e-a0d8-dc0096e5d0a1,Engineering,Unreal Engine,tags
+94,67855169-ef64-424a-a1fb-893108936b8f,Senior Unreal Engineer - Augmented Reality ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/67855169-ef64-424a-a1fb-893108936b8f,Engineering,Unreal Engine,tags
+95,b85ed602-bf9d-4c3b-904a-d2c478563221,Technical Director - Content Creation ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/b85ed602-bf9d-4c3b-904a-d2c478563221,Director,Content Creation,tags
+96,54b45567-3467-4d84-bca9-efe72fe77bc9,Technical Director - Content Creation ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/54b45567-3467-4d84-bca9-efe72fe77bc9,Director,Content Creation,tags
+97,4e7d17f8-773c-4212-8df6-a6e2347c3870,Technical Director - VR Software ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/4e7d17f8-773c-4212-8df6-a6e2347c3870,Director,Software,tags
+98,da5415ef-56c9-4222-82c6-f65df4255d5f,Technical Director - VR Software ,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/da5415ef-56c9-4222-82c6-f65df4255d5f,Director,Software,tags
+99,ca4466d1-3eaa-44fe-a819-5c62e3cab4ae,Technical Director – Content Creation ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/ca4466d1-3eaa-44fe-a819-5c62e3cab4ae,Director,Content Creation,tags
+100,95e1f284-4f8b-4e1f-bf7f-813aed483742,Technical Director – VR Software ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/95e1f284-4f8b-4e1f-bf7f-813aed483742,Director,Software,tags
+101,7d8ff5cf-ccee-4b2d-84b3-a418b10f8bb2,Unreal Engineer - UE4/C++ Programming,Bangalore,na,False,True,na,https://jobs.lever.co/rw1/7d8ff5cf-ccee-4b2d-84b3-a418b10f8bb2,Engineering,Unreal Engine,tags
+102,1a9509b1-5214-462c-929f-a564be13d464,Unreal Engineer ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/1a9509b1-5214-462c-929f-a564be13d464,Engineering,Unreal Engine,tags
+103,0ed3fcd8-1445-45c2-b736-57d57c5cf8c8,Unreal Engineer ,Remote,na,True,True,na,https://jobs.lever.co/rw1/0ed3fcd8-1445-45c2-b736-57d57c5cf8c8,Engineering,Unreal Engine,tags
+104,e180b4fd-227f-4b34-93da-ca427149c3c0,Unreal Engineer ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/e180b4fd-227f-4b34-93da-ca427149c3c0,Engineering,Unreal Engine,tags
+105,c3ff0899-b22a-49cd-80e7-4d0fc1f15778,Junior QA Tester ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/c3ff0899-b22a-49cd-80e7-4d0fc1f15778,QA,Quality Assurance,tags
+106,bebc4b35-7084-4190-9b65-32748a401ab0,Junior QA Tester ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/bebc4b35-7084-4190-9b65-32748a401ab0,QA,Quality Assurance,tags
+107,c6d9678f-1647-4137-b8e0-e12cda1f9696,Senior QA Tester - Gaming / VR ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/c6d9678f-1647-4137-b8e0-e12cda1f9696,QA,VR,tags
+108,5bb08e73-6b45-4b00-bac2-28e7f789ba53,Senior QA Tester - Gaming / VR ,Berlin,na,False,True,na,https://jobs.lever.co/rw1/5bb08e73-6b45-4b00-bac2-28e7f789ba53,QA,VR,tags
+109,4601acd3-be83-48e0-87cf-d835f117fede,Virtual & Augmented Reality Testing - Working Student ,Freiburg,na,False,True,na,https://jobs.lever.co/rw1/4601acd3-be83-48e0-87cf-d835f117fede,QA,Quality Assurance,tags
+110,31254ce7-aee9-4664-9f66-29dd3eac609a,Customer Success Manager,London,na,False,True,na,https://jobs.lever.co/nylas/31254ce7-aee9-4664-9f66-29dd3eac609a,Manager,Customer,tags
+111,35d20881-0582-4994-962d-4541b63bb067,Customer Success Manager,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/35d20881-0582-4994-962d-4541b63bb067,Manager,Customer,tags
+112,65ea33d9-8f69-48f3-81c5-922d1ff087bb,Customer Success Manager,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/65ea33d9-8f69-48f3-81c5-922d1ff087bb,Manager,Customer,tags
+113,30783278-8fe3-4fba-95b4-39f8a3ff6683,Database Administrator,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/30783278-8fe3-4fba-95b4-39f8a3ff6683,Data,Administrator,tags
+114,668baf4e-b392-4d5d-bb97-a7998ffd4d07,Engineering Manager - Intelligence,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/668baf4e-b392-4d5d-bb97-a7998ffd4d07,Engineering,Machine Learning,tags
+115,38414dfa-8f5c-43f0-94ba-8c4740a971bb,Engineering Manager - Intelligence,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/38414dfa-8f5c-43f0-94ba-8c4740a971bb,Engineering,Machine Learning,tags
+116,d8788060-ef4f-48ea-8b7b-787c31ec4e46,Senior Engineer - Intelligence,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/d8788060-ef4f-48ea-8b7b-787c31ec4e46,Engineering,Machine Learning,tags
+117,50471019-fe86-4429-b857-98b17434d839,Senior Engineer - Intelligence,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/50471019-fe86-4429-b857-98b17434d839,Engineering,Machine Learning,tags
+118,6cf4a6cb-4c7d-4687-adc1-f3f4c6c10c99,Senior Engineer - Intelligence,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/6cf4a6cb-4c7d-4687-adc1-f3f4c6c10c99,Engineering,Machine Learning,tags
+119,2b9393c1-9a79-4f74-80be-d3c224836995,Senior Machine Learning Engineer - NLP,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/2b9393c1-9a79-4f74-80be-d3c224836995,Engineering,Machine Learning,tags
+120,717988d5-f147-487b-9bc9-0e6576529b66,Software Developer in Test,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/717988d5-f147-487b-9bc9-0e6576529b66,Developer,Software,tags
+121,bcd16cc9-f1c3-482a-89e0-be262b45f8d3,Software Developer in Test,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/bcd16cc9-f1c3-482a-89e0-be262b45f8d3,Developer,Software,tags
+122,4410bb47-99d3-4379-a2b8-56744f7f0ac6,Senior Site Reliability Engineer,Amsterdam,na,False,True,na,https://jobs.lever.co/nylas/4410bb47-99d3-4379-a2b8-56744f7f0ac6,Engineering,Site,tags
+123,99f41f20-5d78-4382-b5b8-d889cc481150,Senior Site Reliability Engineer,Dublin,na,False,True,na,https://jobs.lever.co/nylas/99f41f20-5d78-4382-b5b8-d889cc481150,Engineering,Site,tags
+124,56ce11ec-32c1-411d-9f21-0dd27957e6e3,Site Reliability Engineer,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/56ce11ec-32c1-411d-9f21-0dd27957e6e3,Engineering,Site,tags
+125,1df67ed2-f31f-4b4e-b6bf-5f94443e5f52,Data Engineer,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/1df67ed2-f31f-4b4e-b6bf-5f94443e5f52,Engineering,Data,tags
+126,878c5e15-edb0-499d-bc6a-ed89e32e0423,"Engineering Manager, Developer Experience","Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/878c5e15-edb0-499d-bc6a-ed89e32e0423,Engineering,Developer,tags
+127,e1092cec-6f36-4098-8a0c-ad0140fa287b,Senior Backend Engineer - Connectivity,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/e1092cec-6f36-4098-8a0c-ad0140fa287b,Engineering,Backend,tags
+128,6a5b439e-f37d-4fe3-ab01-69af27d3fb16,Senior Backend Engineer - Connectivity,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/6a5b439e-f37d-4fe3-ab01-69af27d3fb16,Engineering,Backend,tags
+129,0c461232-a17c-462b-839d-cd1d7302ed0a,Senior Backend Engineer - Connectivity,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/0c461232-a17c-462b-839d-cd1d7302ed0a,Engineering,Backend,tags
+130,4af9b484-cdf1-4939-b121-9e1319b9a6de,Senior Backend Engineer - Connectivity,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/4af9b484-cdf1-4939-b121-9e1319b9a6de,Engineering,Backend,tags
+131,363a32c7-02ed-4ad3-8afe-bc486f09e563,Senior Backend Engineer - Connectivity,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/363a32c7-02ed-4ad3-8afe-bc486f09e563,Engineering,Backend,tags
+132,480eb63e-a3e2-4ffc-899c-9a6d28b8c7b2,Senior Frontend/Full Stack Engineer,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/480eb63e-a3e2-4ffc-899c-9a6d28b8c7b2,Engineering,Full Stack,tags
+133,fab34929-1a8c-4763-b150-39fb86358ecc,Senior Software Engineer - Features,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/fab34929-1a8c-4763-b150-39fb86358ecc,Engineering,Software,tags
+134,405b09e0-8146-43af-b18e-3b8506ae89e7,Senior Software Engineer - Platforms,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/405b09e0-8146-43af-b18e-3b8506ae89e7,Engineering,Software,tags
+135,65dd0983-58d9-49c7-b94f-ee81df081f1b,Senior Software Engineer - Platforms,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/65dd0983-58d9-49c7-b94f-ee81df081f1b,Engineering,Software,tags
+136,9c990d65-8c30-4125-b5bd-cd22fc971a3c,Senior Software Engineer - Platforms,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/9c990d65-8c30-4125-b5bd-cd22fc971a3c,Engineering,Software,tags
+137,28ce6f16-2500-49ec-ae20-46bebafa24d8,Senior Software Engineer - Platforms,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/28ce6f16-2500-49ec-ae20-46bebafa24d8,Engineering,Software,tags
+138,4f01c054-6c62-41f5-aa6e-694b67a258d5,Senior Software Engineer - Platforms,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/4f01c054-6c62-41f5-aa6e-694b67a258d5,Engineering,Software,tags
+139,8b9893d1-2018-45f7-9afd-d117436dab32,Senior Software Engineer - Platforms,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/8b9893d1-2018-45f7-9afd-d117436dab32,Engineering,Software,tags
+140,b52c5077-c998-48d6-8d87-e317601597f1,Software Engineer - Features,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/b52c5077-c998-48d6-8d87-e317601597f1,Engineering,Software,tags
+141,2253c502-5aee-45c5-b80d-d8e1acaed633,Technical Program Manager,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/2253c502-5aee-45c5-b80d-d8e1acaed633,Manager,na ,tags
+142,2e9cdd03-8cde-4def-aa7d-80d5fd352e5b,"Manager, Technical Support Engineering",Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/2e9cdd03-8cde-4def-aa7d-80d5fd352e5b,Engineering,Support,tags
+143,e8972846-7343-4181-b6b6-f85c30500e1e,Senior Technical Support Engineer - Escalations,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/e8972846-7343-4181-b6b6-f85c30500e1e,Engineering,Support,tags
+144,58256b4b-f9fd-4874-8368-c0f1092fa124,Technical Support Engineer,Amsterdam,na,False,True,na,https://jobs.lever.co/nylas/58256b4b-f9fd-4874-8368-c0f1092fa124,Engineering,Support,tags
+145,4824e481-871d-4522-a298-3db57a94545f,Technical Support Engineer,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/4824e481-871d-4522-a298-3db57a94545f,Engineering,Support,tags
+146,12779ec6-6c7f-456e-b851-4f790f3ed354,Technical Support Engineer,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/12779ec6-6c7f-456e-b851-4f790f3ed354,Engineering,Support,tags
+147,5f62de90-ad6a-49db-af49-c4df700c72f2,Technical Support Engineer,"Boston, MA",na,False,True,na,https://jobs.lever.co/nylas/5f62de90-ad6a-49db-af49-c4df700c72f2,Engineering,Support,tags
+148,496338a6-9e0f-45c7-9ca2-2286b630b71e,Technical Support Engineer,"Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/496338a6-9e0f-45c7-9ca2-2286b630b71e,Engineering,Support,tags
+149,d48cb9ee-4f02-4c8b-95bf-b4449a043797,Technical Support Engineer,"Chicago, IL",na,False,True,na,https://jobs.lever.co/nylas/d48cb9ee-4f02-4c8b-95bf-b4449a043797,Engineering,Support,tags
+150,0e27e5ac-baf6-4975-8a99-c3c4e74530aa,Technical Support Engineer,"Seattle, WA",na,False,True,na,https://jobs.lever.co/nylas/0e27e5ac-baf6-4975-8a99-c3c4e74530aa,Engineering,Support,tags
+151,b037fdce-740c-4bec-a052-df70c9d5b0f6,Technical Support Engineer,"Charlotte, NC",na,False,True,na,https://jobs.lever.co/nylas/b037fdce-740c-4bec-a052-df70c9d5b0f6,Engineering,Support,tags
+152,67b69e72-ca12-44ed-9702-53ef764dc31d,Deal Desk Manager,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/67b69e72-ca12-44ed-9702-53ef764dc31d,Manager,Finance,tags
+153,98c8a84f-5c62-4407-8066-caaf9e601487,Deal Desk Manager,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/98c8a84f-5c62-4407-8066-caaf9e601487,Manager,Finance,tags
+154,d503e061-b202-486a-a7f9-e6dd39da11d7,Deal Desk Manager,"Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/d503e061-b202-486a-a7f9-e6dd39da11d7,Manager,Finance,tags
+155,2b040ca8-5a1b-4d7e-a69a-3327dfd51fff,Deal Desk Manager,"Chicago, IL",na,False,True,na,https://jobs.lever.co/nylas/2b040ca8-5a1b-4d7e-a69a-3327dfd51fff,Manager,Finance,tags
+156,2f0c85d8-c993-4ffd-93c4-cd777a9a2d37,"Sr. Director, FP&A",Remote,na,True,True,na,https://jobs.lever.co/nylas/2f0c85d8-c993-4ffd-93c4-cd777a9a2d37,Director,Finance,tags
+157,09e5ee49-90f8-410d-a5cf-6bd9f0ee5ee7,"Sr. Director, FP&A","San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/09e5ee49-90f8-410d-a5cf-6bd9f0ee5ee7,Director,Finance,tags
+158,bb0aafce-8621-41a3-a4e2-996a7d188209,"Sr. Director, FP&A","New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/bb0aafce-8621-41a3-a4e2-996a7d188209,Director,Finance,tags
+159,68f342c6-cafe-4f5b-9fbc-99f0bd586dde,"Sr. Director, FP&A","Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/68f342c6-cafe-4f5b-9fbc-99f0bd586dde,Director,Finance,tags
+160,77208a7d-ef55-4284-959a-c9a8da18c1a7,Senior Brand Designer,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/77208a7d-ef55-4284-959a-c9a8da18c1a7,Art,Marketing,tags
+161,f42ef66e-f6a3-41f6-8d26-6997830b70eb,Developer Advocate,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/f42ef66e-f6a3-41f6-8d26-6997830b70eb,Developer,Marketing,tags
+162,b5b29c1f-8181-495c-a578-bd03b23eda5c,Developer Advocate,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/b5b29c1f-8181-495c-a578-bd03b23eda5c,Developer,Marketing,tags
+163,c8532c56-f401-4469-8745-e355940fbca3,Developer Advocate,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/c8532c56-f401-4469-8745-e355940fbca3,Developer,Marketing,tags
+164,c73c0781-a022-4c26-897a-0969729d4d2c,"Director, Developer Relations","San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/c73c0781-a022-4c26-897a-0969729d4d2c,Developer,Marketing,tags
+165,d83c8ff8-b1cc-4977-9e47-2d4223560e83,"Director, Developer Relations","Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/d83c8ff8-b1cc-4977-9e47-2d4223560e83,Developer,Marketing,tags
+166,4dd70bc4-6f4f-4e69-8007-6c34b1f92900,"Director, Developer Relations","Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/4dd70bc4-6f4f-4e69-8007-6c34b1f92900,Developer,Marketing,tags
+167,cfc3c612-cf4d-4d7d-b653-ebb34fe235ad,"Director, Developer Relations","New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/cfc3c612-cf4d-4d7d-b653-ebb34fe235ad,Developer,Marketing,tags
+168,3249af6c-969b-4d6b-a6c7-e13779e71c37,Digital Marketing Manager,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/3249af6c-969b-4d6b-a6c7-e13779e71c37,Manager,Marketing,tags
+169,d378c1bc-f4c4-4432-ba61-097cb4fed697,Sr. Account Based Marketing Manager,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/d378c1bc-f4c4-4432-ba61-097cb4fed697,Manager,Marketing,tags
+170,946b8c0a-a144-4794-b300-319ec59f0bc6,Field Marketing Manager,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/946b8c0a-a144-4794-b300-319ec59f0bc6,Manager,Marketing,tags
+171,156190f2-7e69-4813-b4cb-a0c84b1db032,"Product Marketing Manager, Content","San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/156190f2-7e69-4813-b4cb-a0c84b1db032,Manager,Product,tags
+172,c96420c5-c2b3-4f10-9619-d03e18410af8,Sr. Technical Product Marketing Manager,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/c96420c5-c2b3-4f10-9619-d03e18410af8,Manager,Product,tags
+173,1ee03de9-bb93-47fe-895a-142f8245c396,Web Developer,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/1ee03de9-bb93-47fe-895a-142f8245c396,Developer,Marketing,tags
+174,799b99e7-574c-45d4-a98c-ee0c8454b534,Web Developer,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/799b99e7-574c-45d4-a98c-ee0c8454b534,Developer,Marketing,tags
+175,1fe2efb5-a996-480b-b96c-970fffabfd22,People Partner,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/1fe2efb5-a996-480b-b96c-970fffabfd22,People – People Operations,People,tags
+176,642d75c0-675b-4735-b2a8-c981b54655f7,People Partner,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/642d75c0-675b-4735-b2a8-c981b54655f7,People – People Operations,People,tags
+177,7be3cea7-30fa-487e-87ac-ae175145a77a,People Partner,"Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/7be3cea7-30fa-487e-87ac-ae175145a77a,People – People Operations,People,tags
+178,5fcbf4a4-02fa-4151-afa6-9413fbab6d33,"Manager, Recruiting","San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/5fcbf4a4-02fa-4151-afa6-9413fbab6d33,Manager,People,tags
+179,8a139d25-bc30-490c-9ddc-1d8a41239ed9,"Manager, Recruiting","Seattle, WA",na,False,True,na,https://jobs.lever.co/nylas/8a139d25-bc30-490c-9ddc-1d8a41239ed9,Manager,People,tags
+180,8b23660f-e419-4afc-b2cc-c4d588c60e96,"Manager, Recruiting",Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/8b23660f-e419-4afc-b2cc-c4d588c60e96,Manager,People,tags
+181,c443874d-a308-487d-80d1-343b434f5a85,Recruiting Coordinator,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/c443874d-a308-487d-80d1-343b434f5a85,Coordinator,People,tags
+182,21eb802a-6112-460c-b1b9-cdf2375c448f,Recruiting Coordinator,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/21eb802a-6112-460c-b1b9-cdf2375c448f,Coordinator,People,tags
+183,6dea92af-444e-44d3-8078-58b458840214,Recruiting Coordinator,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/6dea92af-444e-44d3-8078-58b458840214,Coordinator,People,tags
+184,483259a3-c390-4321-8983-6703283a65b9,Recruiting Coordinator,"Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/483259a3-c390-4321-8983-6703283a65b9,Coordinator,People,tags
+185,3c815080-71e9-4d41-848f-3e6b7b657627,Recruiting Coordinator,Los Angeles,na,False,True,na,https://jobs.lever.co/nylas/3c815080-71e9-4d41-848f-3e6b7b657627,Coordinator,People,tags
+186,d138ca3e-384d-482d-b3ba-7a6ccc1c26f5,Recruiting Coordinator,"Boston, MA",na,False,True,na,https://jobs.lever.co/nylas/d138ca3e-384d-482d-b3ba-7a6ccc1c26f5,Coordinator,People,tags
+187,53031514-e206-4898-966b-8a7140fb6b82,Recruiting Coordinator,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/53031514-e206-4898-966b-8a7140fb6b82,Coordinator,People,tags
+188,6a929efa-5470-428c-a51a-134cac32ef09,Sourcer,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/6a929efa-5470-428c-a51a-134cac32ef09,Recruiter,People,tags
+189,3dd67273-7bec-4686-b148-0a6df5fa2e3e,Sourcer,"Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/3dd67273-7bec-4686-b148-0a6df5fa2e3e,Recruiter,People,tags
+190,def45bb8-f5b4-4e58-aa91-2afc296d49ba,Sourcer,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/def45bb8-f5b4-4e58-aa91-2afc296d49ba,Recruiter,People,tags
+191,febd924d-0f59-469d-b802-b0ce9690d9f7,Sourcer,"Seattle, WA",na,False,True,na,https://jobs.lever.co/nylas/febd924d-0f59-469d-b802-b0ce9690d9f7,Recruiter,People,tags
+192,52e3d41e-ba04-4440-904e-f33070269b87,Sourcer,Los Angeles,na,False,True,na,https://jobs.lever.co/nylas/52e3d41e-ba04-4440-904e-f33070269b87,Recruiter,People,tags
+193,9d4d2fca-defc-4692-b9e4-0753807cd191,Sourcer,"San Diego, CA",na,False,True,na,https://jobs.lever.co/nylas/9d4d2fca-defc-4692-b9e4-0753807cd191,Recruiter,People,tags
+194,bf183d11-e7bf-4f7e-93c5-9887358079f2,Sourcer,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/bf183d11-e7bf-4f7e-93c5-9887358079f2,Recruiter,People,tags
+195,4facc802-173d-4d72-811b-74c80a0b1fa2,Sr. Sales Recruiter,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/4facc802-173d-4d72-811b-74c80a0b1fa2,Recruiter,People,tags
+196,375d8dfd-bb1e-47d5-80e0-9405d549307f,Sr. Sales Recruiter,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/375d8dfd-bb1e-47d5-80e0-9405d549307f,Recruiter,People,tags
+197,371042b8-470a-46ff-88f1-8c024f31539b,Sr. Sales Recruiter,"Seattle, WA",na,False,True,na,https://jobs.lever.co/nylas/371042b8-470a-46ff-88f1-8c024f31539b,Recruiter,People,tags
+198,89130271-e7ad-47ee-95f4-7d7ecf700068,Sr. Sales Recruiter,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/89130271-e7ad-47ee-95f4-7d7ecf700068,Recruiter,People,tags
+199,bcf35210-d39f-4e3a-a022-78f15f59f947,Sr. Sales Recruiter,"Atlanta, GA",na,False,True,na,https://jobs.lever.co/nylas/bcf35210-d39f-4e3a-a022-78f15f59f947,Recruiter,People,tags
+200,6a64428b-a6a2-483b-bd6c-acc51457f438,Sr. Sales Recruiter,"Chicago, IL",na,False,True,na,https://jobs.lever.co/nylas/6a64428b-a6a2-483b-bd6c-acc51457f438,Recruiter,People,tags
+201,6bd67180-d5f7-4d1e-b170-2e5df014e4f4,Sr. Technical Recruiter,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/6bd67180-d5f7-4d1e-b170-2e5df014e4f4,Recruiter,People,tags
+202,11347c5c-b7b8-4dfc-a554-6386f20937f5,Sr. Technical Recruiter,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/11347c5c-b7b8-4dfc-a554-6386f20937f5,Recruiter,People,tags
+203,4f3ef043-7c98-4d7f-8337-8e6e1bcf2253,Sr. Technical Recruiter,"Seattle, WA",na,False,True,na,https://jobs.lever.co/nylas/4f3ef043-7c98-4d7f-8337-8e6e1bcf2253,Recruiter,People,tags
+204,5c25dfc6-5901-41f3-a379-758e847ca4d2,Sr. Technical Recruiter,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/5c25dfc6-5901-41f3-a379-758e847ca4d2,Recruiter,People,tags
+205,6f429f62-a67f-4eb4-bfea-01a23db48e04,Sr. Technical Recruiter,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/6f429f62-a67f-4eb4-bfea-01a23db48e04,Recruiter,People,tags
+206,a012ed3d-e2ef-473c-b5eb-42584abaf909,Sr. Technical Recruiter,"Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/a012ed3d-e2ef-473c-b5eb-42584abaf909,Recruiter,People,tags
+207,d8383427-3121-4e2b-9360-5723d2a270a0,Sr. Technical Recruiter,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/d8383427-3121-4e2b-9360-5723d2a270a0,Recruiter,People,tags
+208,d374813e-9f61-41fb-a60b-2df53e5a910b,Senior Product Designer,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/d374813e-9f61-41fb-a60b-2df53e5a910b,Art,Product,tags
+209,fc5eed36-fd2e-46d7-a6c1-c6d3940f91fd,Senior Product Designer,"Vancouver, BC",na,False,True,na,https://jobs.lever.co/nylas/fc5eed36-fd2e-46d7-a6c1-c6d3940f91fd,Art,Product,tags
+210,10405c27-e9d2-465c-ac8a-0612cb3137bc,Senior Product Designer,"Montreal, QC",na,False,True,na,https://jobs.lever.co/nylas/10405c27-e9d2-465c-ac8a-0612cb3137bc,Art,Product,tags
+211,7747caa5-0e51-4ad8-aae8-e38b9bd05468,Senior Product Designer,Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/7747caa5-0e51-4ad8-aae8-e38b9bd05468,Art,Product,tags
+212,3e06af0a-0269-4a65-90ea-5c35a3bc0b83,Senior Product Designer,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/3e06af0a-0269-4a65-90ea-5c35a3bc0b83,Art,Product,tags
+213,d881193d-c0ba-41da-b269-816f1f06840b,"Senior Manager, Product Management","Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/d881193d-c0ba-41da-b269-816f1f06840b,Management,Product,tags
+214,c561993e-32c7-4fc6-8f56-e86487e3269d,"Senior Manager, Product Management","San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/c561993e-32c7-4fc6-8f56-e86487e3269d,Management,Product,tags
+215,0af650bd-8ed4-4586-a09e-7c9c0aff4058,"Senior Manager, Product Management","Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/0af650bd-8ed4-4586-a09e-7c9c0aff4058,Management,Product,tags
+216,335aa8e4-6f04-4f35-a5f6-d6f6c0b74d7b,"Senior Manager, Product Management",Remote (US or Canada),na,True,True,na,https://jobs.lever.co/nylas/335aa8e4-6f04-4f35-a5f6-d6f6c0b74d7b,Management,Product,tags
+217,6e417179-5aec-495c-8b41-880a6af0104d,Commercial Account Executive,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/6e417179-5aec-495c-8b41-880a6af0104d,Sales and Marketing,Sales,tags
+218,41d8764c-e93f-4c49-a2d0-99c853af7af4,Commercial Account Executive,London,na,False,True,na,https://jobs.lever.co/nylas/41d8764c-e93f-4c49-a2d0-99c853af7af4,Sales and Marketing,Sales,tags
+219,0175a46f-a19f-42b5-aa4a-cb05b73ab251,Commercial Account Executive,"New York City, NY",na,False,True,na,https://jobs.lever.co/nylas/0175a46f-a19f-42b5-aa4a-cb05b73ab251,Sales and Marketing,Sales,tags
+220,651b6d5b-fc1b-4a71-85b1-0999dc44c65e,Commercial Account Executive,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/651b6d5b-fc1b-4a71-85b1-0999dc44c65e,Sales and Marketing,Sales,tags
+221,e3cde854-1bd3-42e1-a144-98e726f33295,"Account Executive, Growth",London,na,False,True,na,https://jobs.lever.co/nylas/e3cde854-1bd3-42e1-a144-98e726f33295,Sales and Marketing,Sales,tags
+222,2631ab58-f985-4110-ac51-c2bf2a72e6ca,Growth Account Executive,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/2631ab58-f985-4110-ac51-c2bf2a72e6ca,Sales and Marketing,Sales,tags
+223,f5211eae-88ee-4ba0-8bd7-43ee6d51c005,Growth Account Executive,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/f5211eae-88ee-4ba0-8bd7-43ee6d51c005,Sales and Marketing,Sales,tags
+224,cef139c9-1321-41cc-a409-c3323771f9bc,Business Development Representative,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/cef139c9-1321-41cc-a409-c3323771f9bc,Sales and Marketing,Sales,tags
+225,1826bab4-80cf-430b-86f2-f8bee553094d,Business Development Representative,"Toronto, ON",na,False,True,na,https://jobs.lever.co/nylas/1826bab4-80cf-430b-86f2-f8bee553094d,Sales and Marketing,Sales,tags
+226,246140d7-53b2-46ad-9b06-3ba5ec584b59,Business Development Representative,London,na,False,True,na,https://jobs.lever.co/nylas/246140d7-53b2-46ad-9b06-3ba5ec584b59,Sales and Marketing,Sales,tags
+227,86255127-862d-4ae4-88f7-ed85b0400f61,Business Development Representative,Amsterdam,na,False,True,na,https://jobs.lever.co/nylas/86255127-862d-4ae4-88f7-ed85b0400f61,Sales and Marketing,Sales,tags
+228,8fa4eb8b-2cc3-4d11-a717-bb7a899686e9,Business Development Representative,York,na,False,True,na,https://jobs.lever.co/nylas/8fa4eb8b-2cc3-4d11-a717-bb7a899686e9,Sales and Marketing,Sales,tags
+229,3c6d7175-eceb-4867-8826-2fb7e002de5c,Business Development Representative,Nottingham,na,False,True,na,https://jobs.lever.co/nylas/3c6d7175-eceb-4867-8826-2fb7e002de5c,Sales and Marketing,Sales,tags
+230,d38b11c3-207e-4195-822b-8fba7cdd66f4,Business Development Representative,Manchester,na,False,True,na,https://jobs.lever.co/nylas/d38b11c3-207e-4195-822b-8fba7cdd66f4,Sales and Marketing,Sales,tags
+231,10a0455c-0b9f-4b51-950b-68087c062959,Business Development Representative,Birmingham,na,False,True,na,https://jobs.lever.co/nylas/10a0455c-0b9f-4b51-950b-68087c062959,Sales and Marketing,Sales,tags
+232,ab464515-6567-4f06-8185-2f0f93887f9a,Business Development Representative,Liverpool,na,False,True,na,https://jobs.lever.co/nylas/ab464515-6567-4f06-8185-2f0f93887f9a,Sales and Marketing,Sales,tags
+233,35b29eed-4333-4911-a6d8-1b9158a4c01a,Business Development Representative,Cambridge,na,False,True,na,https://jobs.lever.co/nylas/35b29eed-4333-4911-a6d8-1b9158a4c01a,Sales and Marketing,Sales,tags
+234,015152ca-1c58-480c-92f2-c30202cd9a5b,Business Development Representative,Southampton,na,False,True,na,https://jobs.lever.co/nylas/015152ca-1c58-480c-92f2-c30202cd9a5b,Sales and Marketing,Sales,tags
+235,f69111d6-7653-4832-b300-63174675b5ed,Business Development Representative,Teddington,na,False,True,na,https://jobs.lever.co/nylas/f69111d6-7653-4832-b300-63174675b5ed,Sales and Marketing,Sales,tags
+236,cf9d315e-f22d-4b04-997a-fd10840d98e6,Business Development Representative,Warwick,na,False,True,na,https://jobs.lever.co/nylas/cf9d315e-f22d-4b04-997a-fd10840d98e6,Sales and Marketing,Sales,tags
+237,129d5b23-01c4-4082-908b-1aaa9121a096,Sales Development Representative,"Chicago, IL",na,False,True,na,https://jobs.lever.co/nylas/129d5b23-01c4-4082-908b-1aaa9121a096,Sales and Marketing,Sales,tags
+238,6fbac364-0f58-4e27-b995-9fa41d8f713f,Sales Onboarding & Training Manager,"San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/6fbac364-0f58-4e27-b995-9fa41d8f713f,Manager,Sales,tags
+239,908a0b90-3091-45f5-81a3-0faa30976992,"Sr. Director, Sales Operations","Chicago, IL",na,False,True,na,https://jobs.lever.co/nylas/908a0b90-3091-45f5-81a3-0faa30976992,Director,Operations,tags
+240,79729f52-251d-4d7a-90a1-62abc6096fc5,"Sr. Director, Sales Operations","Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/79729f52-251d-4d7a-90a1-62abc6096fc5,Director,Operations,tags
+241,f68886d4-1c13-4caa-ae04-4f2bc525887d,"Sr. Director, Sales Operations","Austin, TX",na,False,True,na,https://jobs.lever.co/nylas/f68886d4-1c13-4caa-ae04-4f2bc525887d,Director,Operations,tags
+242,1614ab87-e2cc-42d5-86d0-224056467965,"Sr. Director, Sales Operations","San Francisco, CA",na,False,True,na,https://jobs.lever.co/nylas/1614ab87-e2cc-42d5-86d0-224056467965,Director,Operations,tags
+243,376009dc-0aa9-40dd-827a-679ffb8d63f0,Solutions Engineer I,"Denver, CO",na,False,True,na,https://jobs.lever.co/nylas/376009dc-0aa9-40dd-827a-679ffb8d63f0,Engineering,Sales,tags
+244,37d87319-3e00-4376-b679-f986f48c65cb,Solutions Engineer II,London,na,False,True,na,https://jobs.lever.co/nylas/37d87319-3e00-4376-b679-f986f48c65cb,Engineering,Sales,tags
+245,ad91a8e1-57d8-41bd-9ccf-e214643a83f2,Digital Product Designer ,Remote,na,True,True,na,https://jobs.lever.co/theorem/ad91a8e1-57d8-41bd-9ccf-e214643a83f2,Art,Product,tags
+246,bda60240-c075-4d0a-920b-db3e2028d9f4,Technical Product Strategist - Discovery ,Remote,na,True,True,na,https://jobs.lever.co/theorem/bda60240-c075-4d0a-920b-db3e2028d9f4,Discovery – Product Strategist,Discovery,tags
+247,d12bda69-3a7e-458b-8e0e-e8a3b736ce56,"Program Director, Custom Software ",Remote,na,True,True,na,https://jobs.lever.co/theorem/d12bda69-3a7e-458b-8e0e-e8a3b736ce56,Director,Software,tags
+248,00271a8d-dc10-409e-9083-fab4371838e8, Backend Engineer  - C# / .NET Core ,Remote,na,True,True,na,https://jobs.lever.co/theorem/00271a8d-dc10-409e-9083-fab4371838e8,Engineering,Backend,tags
+249,65abd071-5bdd-4322-bd55-87b831dde5e1, Backend Engineer - Ruby,Remote,na,True,True,na,https://jobs.lever.co/theorem/65abd071-5bdd-4322-bd55-87b831dde5e1,Engineering,Backend,tags
+250,5e335f20-bc53-4c6c-ba5c-6548b3da3797, Backend Engineer - Python,Remote,na,True,True,na,https://jobs.lever.co/theorem/5e335f20-bc53-4c6c-ba5c-6548b3da3797,Engineering,Backend,tags
+251,be164e56-7108-4d35-a2f3-a211b5405a5d,IT & Security Administrator,Remote,na,True,True,na,https://jobs.lever.co/theorem/be164e56-7108-4d35-a2f3-a211b5405a5d,Engineering,Administrator,tags
+252,29c783f8-e647-402a-9d1a-5f44e1d077aa,Technical System Analyst,Remote,na,True,True,na,https://jobs.lever.co/theorem/29c783f8-e647-402a-9d1a-5f44e1d077aa,Engineering – Engineering,Analyst,tags
+253,b349b166-6c88-4e8d-8dd8-ebc919c96859,Engineering Manager ,Remote,na,True,True,na,https://jobs.lever.co/theorem/b349b166-6c88-4e8d-8dd8-ebc919c96859,Engineering,na ,tags
+254,ded5da42-b1a6-47c3-85d4-26d9f6ccc8f9, Frontend Engineer - React ,Remote,na,True,True,na,https://jobs.lever.co/theorem/ded5da42-b1a6-47c3-85d4-26d9f6ccc8f9,Engineering,Frontend,tags
+255,a698cac9-4d01-499f-85ed-71db847f1d92, Full Stack Engineer ,Remote,na,True,True,na,https://jobs.lever.co/theorem/a698cac9-4d01-499f-85ed-71db847f1d92,Engineering,Full Stack,tags
+256,74959aef-e0c7-4767-80bf-93f105930aa7, Backend Engineer - Java ,Remote,na,True,True,na,https://jobs.lever.co/theorem/74959aef-e0c7-4767-80bf-93f105930aa7,Engineering,Backend,tags
+257,b9a1d016-32b6-4940-a267-571296bd146f, Quality Assurance Engineer,Remote,na,True,True,na,https://jobs.lever.co/theorem/b9a1d016-32b6-4940-a267-571296bd146f,Engineering,Quality Assurance,tags
+258,1bd992ea-20e7-4112-a520-0cda467cd0a8,Product Engineering Strategist ,Remote,na,True,True,na,https://jobs.lever.co/theorem/1bd992ea-20e7-4112-a520-0cda467cd0a8,Engineering,Product,tags
+259,ca04c17d-4baa-4d63-a616-06f844329f07,General Application,Remote,na,True,True,na,https://jobs.lever.co/theorem/ca04c17d-4baa-4d63-a616-06f844329f07,Application,Application,tags
+260,b2941bc9-5c7c-497f-aa97-8fbc856f1a12,General Application - Leadership,Remote,na,True,True,na,https://jobs.lever.co/theorem/b2941bc9-5c7c-497f-aa97-8fbc856f1a12,Application,Application,tags
+261,775c2b1f-016c-4cd2-b1b6-3f9e13b992bf,Product Manager ,Remote,na,True,True,na,https://jobs.lever.co/theorem/775c2b1f-016c-4cd2-b1b6-3f9e13b992bf,Manager,Product,tags
+262,5510566c-212e-4fa4-ac1e-d11623abaf86,Product Manager - UK & Western Europe ,London,na,False,True,na,https://jobs.lever.co/theorem/5510566c-212e-4fa4-ac1e-d11623abaf86,Manager,Product,tags
+263,c8c4d20f-f2df-4f43-a493-d8348759e569,Product Manager ,Remote,na,True,True,na,https://jobs.lever.co/theorem/c8c4d20f-f2df-4f43-a493-d8348759e569,Manager,Product,tags
+264,d1a74c69-1bb4-4bb1-ba3a-e291222a31c9,Site Reliability Engineer @ Apple ,Remote,na,True,True,na,https://jobs.lever.co/theorem/d1a74c69-1bb4-4bb1-ba3a-e291222a31c9,Engineering,Site,tags
+265,821ed00f-513e-43a0-96d4-dbb030038fdb,Digital Growth Hacker / Social Media Strategist ,Remote,na,True,True,na,https://jobs.lever.co/theorem/821ed00f-513e-43a0-96d4-dbb030038fdb,Sales and Marketing,Marketing,tags
+266,d2f513a1-b8bd-43e7-88f6-84de55e7ca49,Marketing and Design Coordinator,Remote,na,True,True,na,https://jobs.lever.co/theorem/d2f513a1-b8bd-43e7-88f6-84de55e7ca49,Coordinator,Marketing,tags
+267,00a48e6e-6c39-4f61-bb38-98639c5a1710,Business Development Manager - Americas Focused ,Remote,na,True,True,na,https://jobs.lever.co/theorem/00a48e6e-6c39-4f61-bb38-98639c5a1710,Manager,Business Development,tags
+268,94fb6552-be1b-483d-bad4-a56b4d82fe28,Business Development Manager - UK Focused ,Remote,na,True,True,na,https://jobs.lever.co/theorem/94fb6552-be1b-483d-bad4-a56b4d82fe28,Manager,Business Development,tags
+269,3b16fd79-d889-4ae5-ab28-9a2779189cbd,Sales Development Representative ,Remote,na,True,True,na,https://jobs.lever.co/theorem/3b16fd79-d889-4ae5-ab28-9a2779189cbd,Sales and Marketing,na ,tags
+270,5d76206d-c3fa-49a5-8d9c-65f6e6c60f14,Engineering Talent Advocate ,Remote,na,True,True,na,https://jobs.lever.co/theorem/5d76206d-c3fa-49a5-8d9c-65f6e6c60f14,Engineering,na ,tags
+271,fb311797-e8b2-490a-85c2-3a41ee5b84a4,Technical Screener,Remote,na,True,True,na,https://jobs.lever.co/theorem/fb311797-e8b2-490a-85c2-3a41ee5b84a4,Talent Acquisition – Technical Screener,na ,tags
+272,89148881-e655-4638-ac05-75dd727da70b,Director of Engineering,Anywhere,na,False,True,na,https://jobs.lever.co/Smile.io/89148881-e655-4638-ac05-75dd727da70b,Engineering,na ,tags
+273,4837e990-d865-4d29-8a27-0107ae3da37b,Software Engineer,Remote,na,True,True,na,https://jobs.lever.co/Smile.io/4837e990-d865-4d29-8a27-0107ae3da37b,Engineering,Software,tags
+274,932c56a5-12ba-4ce3-b8b0-2ce267b0e65a,Senior Site Reliability Specialist,Remote,na,True,True,na,https://jobs.lever.co/Smile.io/932c56a5-12ba-4ce3-b8b0-2ce267b0e65a,Engineering – Site Reliability Engineering,Site,tags
+275,cdbec3c0-a1c9-4bdb-8d5c-91fdf2ce0f36,Senior Product Manager,Remote,na,True,True,na,https://jobs.lever.co/Smile.io/cdbec3c0-a1c9-4bdb-8d5c-91fdf2ce0f36,Manager,Product,tags
+276,5c285ccf-fc9e-47ad-a01f-a522750febcf,Product Marketing Manager,Remote,na,True,True,na,https://jobs.lever.co/Smile.io/5c285ccf-fc9e-47ad-a01f-a522750febcf,Manager,Product,tags
+277,67ef0ce9-1c15-499a-8474-1869b40c1a64,Recruitment Coordinator,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/67ef0ce9-1c15-499a-8474-1869b40c1a64,Coordinator,Administrator,tags
+278,3273bd94-6c1f-46b1-b64f-8517abbaa732,Technical Recruiter,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/3273bd94-6c1f-46b1-b64f-8517abbaa732,Administrative – Talent,Administrator,tags
+279,1e6bea0d-bd7f-41fd-a5f2-71509c742853,Senior Platform Engineer,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/1e6bea0d-bd7f-41fd-a5f2-71509c742853,Engineering,na ,tags
+280,9a40852b-521e-42c1-8677-00a31320d313,Cloud Infrastructure Engineering Manager,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/9a40852b-521e-42c1-8677-00a31320d313,Engineering,Infrastructure,tags
+281,1457df25-662a-41a3-8c26-d2551f532b97,Core Infrastructure Engineer,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/1457df25-662a-41a3-8c26-d2551f532b97,Engineering,Infrastructure,tags
+282,46bb4d70-e93a-418f-ab64-dcef81585ee0,Full-Stack Engineer,Remote,na,True,True,na,https://jobs.lever.co/amount/46bb4d70-e93a-418f-ab64-dcef81585ee0,Engineering,na ,tags
+283,2a51c7f8-e3fb-4ca4-9cc8-3c045217695e,Full-Stack Engineer,LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/2a51c7f8-e3fb-4ca4-9cc8-3c045217695e,Engineering,na ,tags
+284,27355f79-3421-4cce-9fa1-e0840d208548,Incident Response Manager,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/27355f79-3421-4cce-9fa1-e0840d208548,Manager,na ,tags
+285,4b01d1c1-a811-462f-bdf9-24572fe5a054,Quality Engineer,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/4b01d1c1-a811-462f-bdf9-24572fe5a054,Engineering,na ,tags
+286,517427cd-1522-40fd-bdc9-c15642c13f4f,Senior Cloud Engineer,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/517427cd-1522-40fd-bdc9-c15642c13f4f,Engineering,na ,tags
+287,189af387-ffda-43f6-98b2-915b16c0e6fb,Senior Data Engineer,Remote,na,True,True,na,https://jobs.lever.co/amount/189af387-ffda-43f6-98b2-915b16c0e6fb,Engineering,Data,tags
+288,b77bf7b6-9777-48ff-bf3a-4ff773f9e998,Senior Full-Stack Engineer,Remote,na,True,True,na,https://jobs.lever.co/amount/b77bf7b6-9777-48ff-bf3a-4ff773f9e998,Engineering,na ,tags
+289,093660be-2b36-437c-9f21-8a0a4759346d,Senior Full-Stack Engineer,LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/093660be-2b36-437c-9f21-8a0a4759346d,Engineering,na ,tags
+290,45d7e462-4bee-421f-b1a4-74701919de0a,Senior UI/UX React Developer,Remote,na,True,True,na,https://jobs.lever.co/amount/45d7e462-4bee-421f-b1a4-74701919de0a,Developer,Developer,tags
+291,6b8baa99-6c8f-4c39-8150-3f1259dd449e,Site Reliability Engineer,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/6b8baa99-6c8f-4c39-8150-3f1259dd449e,Engineering,Site,tags
+292,b6c89eac-1c76-4afb-a1f5-1648731e1a44,Software Developer in Test,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/b6c89eac-1c76-4afb-a1f5-1648731e1a44,Developer,Software,tags
+293,e3f05768-4bf9-42e4-93ed-28e69fae08a4,Senior Front End Software Engineer,Chicago / US Remote,na,True,True,na,https://jobs.lever.co/amount/e3f05768-4bf9-42e4-93ed-28e69fae08a4,Engineering,Software,tags
+294,b56e5339-fbf7-4e62-80e7-1caede8f9a5c,Senior Software Engineer,Chicago / US Remote,na,True,True,na,https://jobs.lever.co/amount/b56e5339-fbf7-4e62-80e7-1caede8f9a5c,Engineering,Software,tags
+295,58678f8d-4c0f-4a8b-a176-fea271afa5a4,Software Engineering Manager,Chicago / US Remote,na,True,True,na,https://jobs.lever.co/amount/58678f8d-4c0f-4a8b-a176-fea271afa5a4,Engineering,Software,tags
+296,671abe4f-d49f-4092-9b01-befd1a5a89f7,Implementation Specialist,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/671abe4f-d49f-4092-9b01-befd1a5a89f7,Operations – Implementations,Operations,tags
+297,4178928a-972a-4f44-9dba-9c7feb6a38ba,Project Manager - Sales Team,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/4178928a-972a-4f44-9dba-9c7feb6a38ba,Manager,Operations,tags
+298,56f0a75c-6f79-4b69-a2c5-a2466283dbcd,Fraud Operations Coordinator,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/56f0a75c-6f79-4b69-a2c5-a2466283dbcd,Coordinator,Operations,tags
+299,a7a00dac-d80f-4034-a975-d8dfd88a4e41,Product Manager - Product Success,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/a7a00dac-d80f-4034-a975-d8dfd88a4e41,Manager,Operations,tags
+300,26085db7-8d82-4dad-951e-3420c09a573f,Senior Product Analyst - Product Success,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/26085db7-8d82-4dad-951e-3420c09a573f,Operations – Product Success,Operations,tags
+301,d891457f-6780-48c9-9e25-fc3f2dd77df2,Senior Product Support Analyst,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/d891457f-6780-48c9-9e25-fc3f2dd77df2,Operations – Product Success,Operations,tags
+302,368f06f5-c050-4dda-8419-c19719445b63,Product Manager - Infrastructure & Engineering Services,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/368f06f5-c050-4dda-8419-c19719445b63,Engineering,Infrastructure,tags
+303,5a932097-0c10-4f05-8461-2f097bf8b1e6,Junior Product Manager,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/5a932097-0c10-4f05-8461-2f097bf8b1e6,Manager,Product,tags
+304,b469d587-43f7-47d8-8c5c-b6c313550758,Product Design Director,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/b469d587-43f7-47d8-8c5c-b6c313550758,Director,Product,tags
+305,1e053c56-ae15-4d48-97f9-6e883ff8288c,Scrum Master,Chicago / LA,na,False,True,na,https://jobs.lever.co/amount/1e053c56-ae15-4d48-97f9-6e883ff8288c,Product – Product Strategy,Product,tags
+306,c47d23b9-5be1-4006-9303-e301ea5632ba,Scrum Master - Partner Engineering,Chicago / US Remote,na,True,True,na,https://jobs.lever.co/amount/c47d23b9-5be1-4006-9303-e301ea5632ba,Engineering,Product,tags
+307,e9c86127-e9bd-4041-bfa5-d44810afd4d6,Technical Program Manager,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/e9c86127-e9bd-4041-bfa5-d44810afd4d6,Manager,Product,tags
+308,3deaac83-4470-49f0-a4ef-83c6bd8eb299,Technical Project Manager,"Chicago, IL",na,False,True,na,https://jobs.lever.co/amount/3deaac83-4470-49f0-a4ef-83c6bd8eb299,Manager,Product,tags
+309,f0ddc766-58b7-42e2-8ff7-2df39e7e0c18,Application Security Engineer,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/f0ddc766-58b7-42e2-8ff7-2df39e7e0c18,Engineering,Security,tags
+310,a587467a-3756-4295-aa19-7102288baca0,Security Operations Manager,Chicago / LA / US Remote,na,True,True,na,https://jobs.lever.co/amount/a587467a-3756-4295-aa19-7102288baca0,Manager,Operations,tags
+311,8c8609cf-3c4c-4f4b-949a-c52ad812324d,VP/Director of Sales,"San Ramon, CA",na,False,True,na,https://jobs.lever.co/zeta/8c8609cf-3c4c-4f4b-949a-c52ad812324d,Director,Business Development,tags
+312,a700a9a1-9c20-41f9-98a1-4e8b8f6b4482,DevOps Engineer II - Banking Payments,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/a700a9a1-9c20-41f9-98a1-4e8b8f6b4482,Banking,Operations,tags
+313,009f5328-e0bf-4a19-adce-446dfa5d2126,DevOps Engineer II - Banking SAAS,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/009f5328-e0bf-4a19-adce-446dfa5d2126,Banking,Operations,tags
+314,09903e3b-0d3a-4aef-8d2b-52639889c217,Engineering Manager - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/09903e3b-0d3a-4aef-8d2b-52639889c217,Engineering,na ,tags
+315,dce495ad-965a-4077-a961-c1f2d554423e,Information Developer - Banking,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/dce495ad-965a-4077-a961-c1f2d554423e,Banking,Developer,tags
+316,ba3189a7-b2c8-4414-92b2-01203ba6f553,Lead Software Development - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/ba3189a7-b2c8-4414-92b2-01203ba6f553,Banking,Software,tags
+317,f92bae3c-4eff-4dde-a33a-e5e5147319cc,Lead Software Development - Frontend-Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/f92bae3c-4eff-4dde-a33a-e5e5147319cc,Banking,Software,tags
+318,5be7fc1a-d74a-4841-b857-b2440ac4b992,Lead Software Development Engineer -  Luminous,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/5be7fc1a-d74a-4841-b857-b2440ac4b992,Engineering,Software,tags
+319,981e488c-bf48-4b05-9e4a-a5c749568383,Lead Software Development Engineer in Test - Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/981e488c-bf48-4b05-9e4a-a5c749568383,Banking,Software,tags
+320,9e546402-4b57-4369-96d1-9ded814f3496,Manager Software Development -  Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/9e546402-4b57-4369-96d1-9ded814f3496,Banking,Software,tags
+321,36fbe012-4de7-47b0-b84a-fefdf4b47ad8,Manager Software Development Engineer- Frontend ,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/36fbe012-4de7-47b0-b84a-fefdf4b47ad8,Engineering,Software,tags
+322,e5d67826-c2f8-4c3b-afcf-d48a2cf0d3c1,Manager Software Development-Mobile-Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/e5d67826-c2f8-4c3b-afcf-d48a2cf0d3c1,Banking,Software,tags
+323,1b369dec-5481-419a-aa33-d6dcf434e454,Principal DevOps Engineer Ops Infra,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/1b369dec-5481-419a-aa33-d6dcf434e454,Engineering,Operations,tags
+324,fcf44c35-dda5-4f90-8037-2a79e624f47f,Principal Engineer - Banking Payments,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/fcf44c35-dda5-4f90-8037-2a79e624f47f,Banking,na ,tags
+325,6568ff0a-3f59-4979-8b8b-cea0b413629c,SDE II - Backend - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/6568ff0a-3f59-4979-8b8b-cea0b413629c,Banking,Backend,tags
+326,b3c732d4-c001-47b9-bcb4-4ed47baee12d,SDE II - Frontend - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/b3c732d4-c001-47b9-bcb4-4ed47baee12d,Banking,Frontend,tags
+327,6dd8d780-a2f5-4d1b-a06b-6f3c03d321f3,Senior SDE - Backend - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/6dd8d780-a2f5-4d1b-a06b-6f3c03d321f3,Banking,Backend,tags
+328,a3048670-6c1e-47b2-bdee-431ddf7f9b1b,Senior Software Development Engineer - Frontend - AXON,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/a3048670-6c1e-47b2-bdee-431ddf7f9b1b,Engineering,Software,tags
+329,58d55740-5fe9-4452-8131-0ec720e3511c,Senior Software Development Engineer - Frontend-Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/58d55740-5fe9-4452-8131-0ec720e3511c,Banking,Software,tags
+330,89d726a6-2e82-4cec-8094-e147a9a81ec8,Senior Software Development Engineer - Payments,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/89d726a6-2e82-4cec-8094-e147a9a81ec8,Engineering,Software,tags
+331,2f72e565-edea-422d-a950-3bf3380fb123,Software Development Engineer - II- Frontend-Banking,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/2f72e565-edea-422d-a950-3bf3380fb123,Banking,Software,tags
+332,f239b02b-0b28-47a9-8500-d78f5c18e1e5,Software Development Engineer Android - Payments,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/f239b02b-0b28-47a9-8500-d78f5c18e1e5,Engineering,Software,tags
+333,1a6d74cc-6d64-42c8-b182-50be5a2c16ba,Software Development Engineer II - Payments,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/1a6d74cc-6d64-42c8-b182-50be5a2c16ba,Engineering,Software,tags
+334,4d1e4a3d-1bbf-4564-963b-c1e35c6ca479,Software Development Engineer in Test II- Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/4d1e4a3d-1bbf-4564-963b-c1e35c6ca479,Banking,Software,tags
+335,e3a96bd9-760b-44c3-94ce-b4c6c6aa77d7,Software Development Engineer iOS - Payments,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/e3a96bd9-760b-44c3-94ce-b4c6c6aa77d7,Engineering,Software,tags
+336,721fcdbd-e294-4c16-942f-1f93679cb3df,Solution Architect - Banking,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/721fcdbd-e294-4c16-942f-1f93679cb3df,Banking,na ,tags
+337,50f5b478-c40f-40f7-8377-91d05bfada50,Solution Architect - Cards and Payment,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/50f5b478-c40f-40f7-8377-91d05bfada50,Banking,na ,tags
+338,6cc33396-1e1c-45bb-bc75-1764b34cd9f3,Solution Architect - Optima,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/6cc33396-1e1c-45bb-bc75-1764b34cd9f3,Banking,na ,tags
+339,6765506c-b33e-49ad-a855-829f27af5d1a,Sr DevOps Engineer - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/6765506c-b33e-49ad-a855-829f27af5d1a,Engineering,Operations,tags
+340,905b209d-f587-48f6-ba4f-ac41f6e5cdb5,Sr Solution Architect,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/905b209d-f587-48f6-ba4f-ac41f6e5cdb5,Banking,na ,tags
+341,de7a07c8-79ba-494b-860e-316a5a465d56,Sr. Software Development Engineer - Frontend  - Luminous,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/de7a07c8-79ba-494b-860e-316a5a465d56,Engineering,Software,tags
+342,3c6e6c0b-c887-4530-8a5e-89ea3d70e034,Sr.Software Development Engineer - Backend - Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/3c6e6c0b-c887-4530-8a5e-89ea3d70e034,Banking,Software,tags
+343,4806c3c9-aa22-4118-be02-12ba227a13ad,Sr.Software Development Engineer in Test- Banking Saas,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/4806c3c9-aa22-4118-be02-12ba227a13ad,Banking,Software,tags
+344,409315d6-e61c-4d9c-a719-10338288464e,Technical Program Manager - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/409315d6-e61c-4d9c-a719-10338288464e,Manager,na ,tags
+345,bb4afbf8-4256-4840-b5fa-5fcc4def2356,Manager - Events & Branding,Austin/New York/Los Angeles/San Francisco/Colorado/Seattle,na,False,True,na,https://jobs.lever.co/zeta/bb4afbf8-4256-4840-b5fa-5fcc4def2356,Manager,Marketing,tags
+346,7587026f-f693-4a72-a309-2402ad6b73db,Banking Operations Associate,Pune,na,False,True,na,https://jobs.lever.co/zeta/7587026f-f693-4a72-a309-2402ad6b73db,Banking,Operations,tags
+347,57bfe3cb-576a-4cfd-be63-cf24e0f83560,Executive Assistant to the President- Digital Banking,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/57bfe3cb-576a-4cfd-be63-cf24e0f83560,Banking,Operations,tags
+348,a59785a4-bcc7-4b50-b478-3e3377b0905c,Project Manager - Banking Network,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/a59785a4-bcc7-4b50-b478-3e3377b0905c,Banking,Operations,tags
+349,d5adf86c-d5c1-4026-8e7d-9454b55dfa0a,Business Analytics Manager,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/d5adf86c-d5c1-4026-8e7d-9454b55dfa0a,Manager,Product,tags
+350,c0af3726-96e3-4939-921f-45c854a5ad06,Product Manager / Senior Product Manager - Axon,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/c0af3726-96e3-4939-921f-45c854a5ad06,Manager,Product,tags
+351,60e93192-32f0-434c-b152-0169f6c5d168,Product Manager / Senior Product Manager - Cipher,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/60e93192-32f0-434c-b152-0169f6c5d168,Manager,Product,tags
+352,96c86195-e94f-4a02-aea0-e0bd7c0e31e5,Sr Product Manager/Associate Director - Tachyon,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/96c86195-e94f-4a02-aea0-e0bd7c0e31e5,Director,Product,tags
+353,b320d078-0739-4089-95f8-5fe079d2f901,Senior Incident Commander,Pune,na,False,True,na,https://jobs.lever.co/zeta/b320d078-0739-4089-95f8-5fe079d2f901,Application,Support,tags
+354,78580079-e150-4323-a8a2-cd9122d7fb04,Senior UX Designer,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/78580079-e150-4323-a8a2-cd9122d7fb04,Art,Art,tags
+355,c6ac8277-eb29-41b8-8619-5e665bca242e,UX Design Lead,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/c6ac8277-eb29-41b8-8619-5e665bca242e,Art,Art,tags
+356,89376ed1-3a55-43a4-a297-f5ad3b97f1de,UX Design Manager,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/89376ed1-3a55-43a4-a297-f5ad3b97f1de,Manager,Art,tags
+357,c950aedb-8529-456f-b501-309379a4c2dd,UX Designer,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/c950aedb-8529-456f-b501-309379a4c2dd,Art,Art,tags
+358,339cfcd2-2ce5-46e8-951d-0a0093a5179b,UX Designer II,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/339cfcd2-2ce5-46e8-951d-0a0093a5179b,Art,Art,tags
+359,36982a2d-d018-46aa-94e5-d8d6b40eca13,Database Administrator I,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/36982a2d-d018-46aa-94e5-d8d6b40eca13,Commons – Engineering,Administrator,tags
+360,525618d6-e24d-4e7d-b079-bb6dec8f49e6,Information Developer,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/525618d6-e24d-4e7d-b079-bb6dec8f49e6,Developer,Developer,tags
+361,1e7f1bd1-7d50-42db-8f1c-f8dd4fe8fb61,Information Security Engineer,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/1e7f1bd1-7d50-42db-8f1c-f8dd4fe8fb61,Engineering,Security,tags
+362,38a79ef0-664e-4493-b195-96353d5b1ccc,Intern - Video Editor,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/38a79ef0-664e-4493-b195-96353d5b1ccc,Commons – Engineering,na ,tags
+363,4538f629-b19a-48f4-9936-b79ff5d19c87,Lead DevOps Engineer - Ops Infra,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/4538f629-b19a-48f4-9936-b79ff5d19c87,Engineering,Operations,tags
+364,06d81864-730a-42ff-9f99-87739951efc7,Privacy Engineer/ Privacy Counsel,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/06d81864-730a-42ff-9f99-87739951efc7,Engineering,na ,tags
+365,00746b15-9b46-4064-a41d-e3044b940534,Process Coach,Pune,na,False,True,na,https://jobs.lever.co/zeta/00746b15-9b46-4064-a41d-e3044b940534,Commons – Engineering,na ,tags
+366,76fb717f-53f6-42b2-8c4f-79c3bde32936,Software Development Engineer Android - Luminous,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/76fb717f-53f6-42b2-8c4f-79c3bde32936,Engineering,Software,tags
+367,27c850c7-3e9f-416c-ac5a-437a2552608e,Software Development Engineer iOS - Luminous,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/27c850c7-3e9f-416c-ac5a-437a2552608e,Engineering,Software,tags
+368,1ef65c54-05e1-46fa-9da7-ad629157e288,Sr DevOps Engineer - Luminous,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/1ef65c54-05e1-46fa-9da7-ad629157e288,Engineering,Operations,tags
+369,cccaff5d-e436-422e-be7d-78789c66d336,Technical Program Manager,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/cccaff5d-e436-422e-be7d-78789c66d336,Manager,na ,tags
+370,d517b4c1-1dcc-4d9e-b8e7-67c7918f4528,Accounts Executive,Mumbai,na,False,True,na,https://jobs.lever.co/zeta/d517b4c1-1dcc-4d9e-b8e7-67c7918f4528,Accounts,Finance,tags
+371,4739f713-ff1c-460c-9693-24a0eb1680c9,Senior Accounts Executive,Mumbai,na,False,True,na,https://jobs.lever.co/zeta/4739f713-ff1c-460c-9693-24a0eb1680c9,Accounts,Finance,tags
+372,07a657aa-4650-45f6-82c5-74610585e324,Sr. Manager/Manager - Finance & Accounts,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/07a657aa-4650-45f6-82c5-74610585e324,Manager,Finance,tags
+373,11f9de12-6850-4e48-ba8d-3729e883cdc9,Vice President - Legal,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/11f9de12-6850-4e48-ba8d-3729e883cdc9,Accounts,Finance,tags
+374,67e673b0-8665-428e-9767-ec062470b745,"Head - Total Rewards, Wellness and Analytics",Bangalore,na,False,True,na,https://jobs.lever.co/zeta/67e673b0-8665-428e-9767-ec062470b745,Commons – Human Resources,na ,tags
+375,4c0250de-3902-4578-a45a-8c73dfe8142c,Human Resource Business Partner,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/4c0250de-3902-4578-a45a-8c73dfe8142c,Commons – Human Resources,Business Development,tags
+376,eac34d8f-4dbf-4b45-a366-ed90859add19,Intern - Human Resource,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/eac34d8f-4dbf-4b45-a366-ed90859add19,Commons – Human Resources,na ,tags
+377,61cadb01-5cb3-489a-98ca-69110a34dea8,Learning & Development Intern,Mumbai,na,False,True,na,https://jobs.lever.co/zeta/61cadb01-5cb3-489a-98ca-69110a34dea8,Commons – Human Resources,na ,tags
+378,47726e24-8dd9-441a-b9d9-5a3cf8102fd6,Learning and Development Specialist,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/47726e24-8dd9-441a-b9d9-5a3cf8102fd6,Commons – Human Resources,na ,tags
+379,37d73423-c6c4-4f2a-a565-38632ae67824,Talent Acquisition Intern,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/37d73423-c6c4-4f2a-a565-38632ae67824,Commons – Human Resources,na ,tags
+380,b2ba3bd1-546a-4162-8871-f073adf6347a,Talent Acquisition Specialist ,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/b2ba3bd1-546a-4162-8871-f073adf6347a,Commons – Human Resources,na ,tags
+381,9a72e4a3-9327-4272-9407-77d0a27e6100,System Operations Engineer,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/9a72e4a3-9327-4272-9407-77d0a27e6100,Engineering,na ,tags
+382,dfce54b7-942e-4e42-b687-50a8a26de35c,Marketing Operations & CRM Manager,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/dfce54b7-942e-4e42-b687-50a8a26de35c,Manager,Marketing,tags
+383,6b8282e3-b967-4b9c-9520-f7c3c244c2ab,Marketing Operations Specialist,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/6b8282e3-b967-4b9c-9520-f7c3c244c2ab,Sales and Marketing,Marketing,tags
+384,3c748de5-3133-4e43-9d27-621f5a558262,Product Marketing Manager,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/3c748de5-3133-4e43-9d27-621f5a558262,Manager,Product,tags
+385,5e4c916f-1459-4114-b0a0-06ac2507e660,Program Manager,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/5e4c916f-1459-4114-b0a0-06ac2507e660,Manager,Marketing,tags
+386,c1307274-43fe-4ade-a219-9910df3ec8eb,Director of Product,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/c1307274-43fe-4ade-a219-9910df3ec8eb,Director,Product,tags
+387,cadc291c-0be9-490d-a15f-8b1d920eeb74,Product Manager - Olympus,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/cadc291c-0be9-490d-a15f-8b1d920eeb74,Manager,Product,tags
+388,8af4567d-3dcd-4f5f-8c33-e1fe528b7477,Senior Product Managers,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/8af4567d-3dcd-4f5f-8c33-e1fe528b7477,Manager,Product,tags
+389,7faacce6-951d-4808-9ab7-c7ccbdbe3060,BI Developer - Electron,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/7faacce6-951d-4808-9ab7-c7ccbdbe3060,Developer,Developer,tags
+390,5b021498-127f-43ab-bc7d-91fb8c2be741,Engineering Manager - Electron,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/5b021498-127f-43ab-bc7d-91fb8c2be741,Engineering,na ,tags
+391,6058cc7d-2140-4601-be5f-387c1ea34632,Lead DevOps Engineer - Electron,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/6058cc7d-2140-4601-be5f-387c1ea34632,Engineering,Operations,tags
+392,4a8933f0-100a-47a2-b538-a1af520c9193,Lead Software Development - Electron,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/4a8933f0-100a-47a2-b538-a1af520c9193,Electron – Engineering,Software,tags
+393,237aa538-e00d-4f38-ad17-a8367a39399a,Technical Program Manager,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/237aa538-e00d-4f38-ad17-a8367a39399a,Manager,na ,tags
+394,59d4a786-1c46-4b2d-b4fc-0b418a241679,Associate Product Manager - Electron,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/59d4a786-1c46-4b2d-b4fc-0b418a241679,Manager,Product,tags
+395,49bdcb3b-c9ad-47b2-a436-25c64693460f,Product Manager - Electron,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/49bdcb3b-c9ad-47b2-a436-25c64693460f,Manager,Product,tags
+396,adfaf0a9-f5ac-4ac2-8930-74b6caf9c323,Senior Software Development Engineer - Backend - Enterprise Payments,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/adfaf0a9-f5ac-4ac2-8930-74b6caf9c323,Engineering,Software,tags
+397,cdd069cb-390a-43a4-9f2d-bdfd052ad940,Software Development Engineer II - Backend - Enterprise Payments,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/cdd069cb-390a-43a4-9f2d-bdfd052ad940,Engineering,Software,tags
+398,c337b8d3-c8f4-4fca-b49a-d7210a261e46,Sr DevOps Engineer - Enterprise Payments,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/c337b8d3-c8f4-4fca-b49a-d7210a261e46,Engineering,Operations,tags
+399,c3e5eb7e-ec00-4174-8554-2be358929637,Engineering Manager,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/c3e5eb7e-ec00-4174-8554-2be358929637,Engineering,na ,tags
+400,ed470129-91b8-4cd0-a2fc-52a1b0f17987,Lead - React Native,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/ed470129-91b8-4cd0-a2fc-52a1b0f17987,Plutus – Engineering,na ,tags
+401,df9f1368-6c35-4268-86f9-b8ccb580aa30,Lead Software Development Engineer- Android,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/df9f1368-6c35-4268-86f9-b8ccb580aa30,Engineering,Software,tags
+402,3566a3b5-9814-41c5-b8c1-0cf412c1a40c,Lead Software Development Engineer- iOS,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/3566a3b5-9814-41c5-b8c1-0cf412c1a40c,Engineering,Software,tags
+403,3d4370e5-4bae-40a4-a720-53ee60233342,Senior Software Development Engineer - Frontend,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/3d4370e5-4bae-40a4-a720-53ee60233342,Engineering,Software,tags
+404,667e5496-f00a-4ade-b937-b1aff7f6d919,Senior Software Development Engineer -iOS,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/667e5496-f00a-4ade-b937-b1aff7f6d919,Engineering,Software,tags
+405,435e709a-4779-42ad-88e6-c1b8dd8a46bc,Senior Software Development Engineer ,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/435e709a-4779-42ad-88e6-c1b8dd8a46bc,Engineering,Software,tags
+406,53a521c6-795c-4cea-866d-f5f1421766f1,Software Development Engineer II ,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/53a521c6-795c-4cea-866d-f5f1421766f1,Engineering,Software,tags
+407,063aba16-855e-4cbb-84ee-de5507cb1986,Software Development Engineer II- iOS,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/063aba16-855e-4cbb-84ee-de5507cb1986,Engineering,Software,tags
+408,b67e8b80-ed96-418d-aabc-b05bb437455c,Sr DevOps Engineer - Plutus,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/b67e8b80-ed96-418d-aabc-b05bb437455c,Engineering,Operations,tags
+409,909aec45-eabc-4178-bfe0-3254aa7c365c,Manager - Portfolio Operations,Pune,na,False,True,na,https://jobs.lever.co/zeta/909aec45-eabc-4178-bfe0-3254aa7c365c,Manager,Operations,tags
+410,d3282a35-4377-497c-9a35-7ee7c87f0be2,Manager - Pre-Issuing Operations,Pune,na,False,True,na,https://jobs.lever.co/zeta/d3282a35-4377-497c-9a35-7ee7c87f0be2,Manager,Operations,tags
+411,c56212c3-f4e6-408d-a694-5c6c005f8dae,Manager - Settlement Operations,Pune,na,False,True,na,https://jobs.lever.co/zeta/c56212c3-f4e6-408d-a694-5c6c005f8dae,Manager,Operations,tags
+412,349986c1-5d9e-49b8-b5c1-bc3c346c2fc0,Trainer - Customer Operations,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/349986c1-5d9e-49b8-b5c1-bc3c346c2fc0,Plutus – Operations,Operations,tags
+413,db4da122-aff9-4bee-8d9b-b03931709a72,Business Head - Plutus,Mumbai / Bangalore,na,False,True,na,https://jobs.lever.co/zeta/db4da122-aff9-4bee-8d9b-b03931709a72,Plutus – Product,Product,tags
+414,52ad9f9c-ac1b-4e64-a6b7-4d63b4bb6ac1,Product Manager - Plutus,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/52ad9f9c-ac1b-4e64-a6b7-4d63b4bb6ac1,Manager,Product,tags
+415,cb2a2e37-3d27-4ebc-9798-9657e3d7f2f6,Developer Relations,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/cb2a2e37-3d27-4ebc-9798-9657e3d7f2f6,Developer,Developer,tags
+416,9d50c8f4-8509-45a9-bdec-d4dbe381618f,Principal Engineer,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/9d50c8f4-8509-45a9-bdec-d4dbe381618f,Engineering,na ,tags
+417,83a9685c-a147-4e2f-8985-8f7435825009,Principal Engineer,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/83a9685c-a147-4e2f-8985-8f7435825009,Engineering,na ,tags
+418,cb0c82b4-26ec-4a8c-895b-5cf068ec4176,Technical Architect,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/cb0c82b4-26ec-4a8c-895b-5cf068ec4176,Engineering,na ,tags
+419,155aca2d-3951-4c53-85ab-db93fec3475b,HR Generalist,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/155aca2d-3951-4c53-85ab-db93fec3475b,Human Resources,na ,tags
+420,34ef351c-8475-4661-990b-b08401e306f0,Talent Acquisition Specialist,Bangalore,na,False,True,na,https://jobs.lever.co/zeta/34ef351c-8475-4661-990b-b08401e306f0,Human Resources,na ,tags
+421,14011f79-5101-42fc-bb03-0c52adfc8c1b,Talent Acquisition Specialist,Hyderabad,na,False,True,na,https://jobs.lever.co/zeta/14011f79-5101-42fc-bb03-0c52adfc8c1b,Human Resources,na ,tags
+422,4c0c400f-af6f-4983-800a-9017fda130dc,Business Intelligence Analyst - Marketing,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/4c0c400f-af6f-4983-800a-9017fda130dc,Data,Data,tags
+423,123cbd27-cdc4-4333-a5c9-66f69c646841,Senior Data Scientist,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/123cbd27-cdc4-4333-a5c9-66f69c646841,Data,Data,tags
+424,ee707622-9361-4a31-b6f2-8b4ad4e7caf4,Sr. Data Engineer,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/ee707622-9361-4a31-b6f2-8b4ad4e7caf4,Engineering,Data,tags
+425,0660dbdc-056c-4a55-aa6b-3a2c851aefd0,IT Manager,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/0660dbdc-056c-4a55-aa6b-3a2c851aefd0,Engineering,na ,tags
+426,b3dd89f9-6b33-4d5b-afb9-fba9dff62ba8,Lead Software Engineer - Fullstack,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/b3dd89f9-6b33-4d5b-afb9-fba9dff62ba8,Engineering,Software,tags
+427,4d53e53f-82c9-4496-a256-ce56d649b481,Senior DevOps Engineer,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/4d53e53f-82c9-4496-a256-ce56d649b481,Engineering,Operations,tags
+428,b8889728-632d-4f33-8773-a056835745a2,Senior Salesforce Administrator,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/b8889728-632d-4f33-8773-a056835745a2,Engineering – Engineering,Administrator,tags
+429,e0382d8a-0b60-41d0-a36e-0ffd99375e51,Software Engineer - Salesforce ,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/e0382d8a-0b60-41d0-a36e-0ffd99375e51,Engineering,Software,tags
+430,c7904990-9768-41df-997b-5edbbb9b3afd,Sr. Software Engineer - .NET,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/c7904990-9768-41df-997b-5edbbb9b3afd,Engineering,Software,tags
+431,d15ac2f6-1ff7-47de-b362-8d2536fab08a,Sr. Software Engineer  - React,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/d15ac2f6-1ff7-47de-b362-8d2536fab08a,Engineering,Software,tags
+432,3346f2ff-38c9-4365-897e-87895cb9b408,Payroll Manager,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/3346f2ff-38c9-4365-897e-87895cb9b408,Manager,Finance,tags
+433,f7cdbf85-d94a-4d76-ae52-b8a6f5841050,Property Accountant,"Dallas, TX",na,False,True,na,https://jobs.lever.co/roofstock/f7cdbf85-d94a-4d76-ae52-b8a6f5841050,Accounts,Property,tags
+434,8c476286-3373-41d0-8a41-4cda881cf4b2,Senior Revenue Accountant,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/8c476286-3373-41d0-8a41-4cda881cf4b2,Accounts,Finance,tags
+435,c0ca4607-d340-4b0f-9dfc-f4ef885f0658,Senior Financial Analyst,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/c0ca4607-d340-4b0f-9dfc-f4ef885f0658,Accounts,Analyst,tags
+436,f6db4c65-699c-4791-aca2-de68c25d15b8,Investment Analyst,"Dallas, TX",na,False,True,na,https://jobs.lever.co/roofstock/f6db4c65-699c-4791-aca2-de68c25d15b8,Investment Services – Principal Investments,Analyst,tags
+437,39b89486-64ab-4e6e-b1eb-3243b30832a3,Transaction Coordinator - Investment Services,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/39b89486-64ab-4e6e-b1eb-3243b30832a3,Coordinator,na ,tags
+438,a5d4296b-7cb1-4438-acb3-5bfc900377f4,Account Manager  - Indiana Real Estate License Required,"Remote, IN",na,True,True,na,https://jobs.lever.co/roofstock/a5d4296b-7cb1-4438-acb3-5bfc900377f4,Manager,Operations,tags
+439,5f525acc-07f4-4000-92a4-a1073e4bb513,Account Manager  - California Real Estate License Required,"Remote, CA",na,True,True,na,https://jobs.lever.co/roofstock/5f525acc-07f4-4000-92a4-a1073e4bb513,Manager,Operations,tags
+440,9d9c53b7-e50d-4d67-a011-bb414a381568,Customer Success Representative,"Dallas, TX",na,False,True,na,https://jobs.lever.co/roofstock/9d9c53b7-e50d-4d67-a011-bb414a381568,Operations – Customer Experience,Operations,tags
+441,dd5e5d45-7bb2-4e2c-9b62-88588f019e91,Director of Sales - Real Estate ,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/dd5e5d45-7bb2-4e2c-9b62-88588f019e91,Director,Operations,tags
+442,c0568ee9-25b5-455b-8b1b-2676fb5a6f69,"Associate, Strategy and Business Operations","Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/c0568ee9-25b5-455b-8b1b-2676fb5a6f69,Operations – Operations,Operations,tags
+443,b9a4184f-1019-4947-b30a-176f9d75791a,Sales Strategy and Operations Associate,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/b9a4184f-1019-4947-b30a-176f9d75791a,Operations – Operations,Operations,tags
+444,f2a0c531-042f-4121-8114-b1757638c575,"Senior Associate, Strategy and Business Operations","Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/f2a0c531-042f-4121-8114-b1757638c575,Operations – Operations,Operations,tags
+445,7d49f19f-38a5-42a4-ac1b-08ca8e2ae688,Senior Sales Strategy and Operations Associate,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/7d49f19f-38a5-42a4-ac1b-08ca8e2ae688,Operations – Operations,Operations,tags
+446,e71c5839-de38-49a7-9190-e05b77cee810,Senior Financial Analyst,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/e71c5839-de38-49a7-9190-e05b77cee810,Operations – Roofstock One,Operations,tags
+447,9b718648-8bb2-4335-8cdb-1e218aad1e79,Senior Financial Analyst,"Dallas, TX",na,False,True,na,https://jobs.lever.co/roofstock/9b718648-8bb2-4335-8cdb-1e218aad1e79,Operations – Roofstock One,Operations,tags
+448,5ef3bebf-cd0b-4ad1-9274-61995d58f590,Senior Full Stack Software Engineer ,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/5ef3bebf-cd0b-4ad1-9274-61995d58f590,Engineering,Software,tags
+449,827207c2-7828-465e-9bf6-b4d0373eb203,Senior Full Stack Software Engineer ,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/827207c2-7828-465e-9bf6-b4d0373eb203,Engineering,Software,tags
+450,e230cf87-b934-4ece-ba19-cdfd5953c668,Customer Success Associate,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/e230cf87-b934-4ece-ba19-cdfd5953c668,Owner Services – Operations,Operations,tags
+451,94005276-afa5-48e6-9ea1-6030eca2a1d4,Customer Success Associate,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/94005276-afa5-48e6-9ea1-6030eca2a1d4,Owner Services – Operations,Operations,tags
+452,c66d51aa-2440-4614-965f-d0ef860272b1,Product Analyst,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/c66d51aa-2440-4614-965f-d0ef860272b1,Owner Services – Product,Analyst,tags
+453,27ca7076-328c-49e2-a302-bb52c1cbf095,Product Analyst,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/27ca7076-328c-49e2-a302-bb52c1cbf095,Owner Services – Product,Analyst,tags
+454,f302eb2e-2993-4055-a647-38b701719ba4,Product Manager - Platform,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/f302eb2e-2993-4055-a647-38b701719ba4,Manager,Product,tags
+455,98b713ea-67c6-43e6-9dae-77ba7a1049ea,Product Manager - Platform,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/98b713ea-67c6-43e6-9dae-77ba7a1049ea,Manager,Product,tags
+456,e32132db-94c9-428f-bcb7-9aeb575c653f,Senior Product Manager,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/e32132db-94c9-428f-bcb7-9aeb575c653f,Manager,Product,tags
+457,b8b76920-eebb-40c8-837e-71db3c599267,Senior Product Manager,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/b8b76920-eebb-40c8-837e-71db3c599267,Manager,Product,tags
+458,a1eb0ca0-6f83-46c3-a5ff-595e407fd5d1,Senior Product Manager - Platform,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/a1eb0ca0-6f83-46c3-a5ff-595e407fd5d1,Manager,Product,tags
+459,6793b867-6d98-450f-ab00-3b504bd82fb7,Construction Coordinator,"Remote, NV",na,True,True,na,https://jobs.lever.co/roofstock/6793b867-6d98-450f-ab00-3b504bd82fb7,Coordinator,na ,tags
+460,97127b02-eef7-4c3c-ad21-8b91f5e815a0,Maintenance Technician,"Phoenix, AZ",na,False,True,na,https://jobs.lever.co/roofstock/97127b02-eef7-4c3c-ad21-8b91f5e815a0,Management,Technician,tags
+461,5e07cf39-5ae8-40a7-b113-e85f19ec656d,Maintenance Technician,"Las Vegas, NV",na,False,True,na,https://jobs.lever.co/roofstock/5e07cf39-5ae8-40a7-b113-e85f19ec656d,Management,Technician,tags
+462,71c9f022-03fd-4080-9668-8269b85dc83e,Maintenance Technician,"Columbus, OH",na,False,True,na,https://jobs.lever.co/roofstock/71c9f022-03fd-4080-9668-8269b85dc83e,Management,Technician,tags
+463,2bffa838-bd52-44b7-be0c-a8bfe49162f2,Scheduling Coordinator - Construction,"Remote, NV",na,True,True,na,https://jobs.lever.co/roofstock/2bffa838-bd52-44b7-be0c-a8bfe49162f2,Coordinator,na ,tags
+464,03d6f173-aa53-49d7-b6a0-8ed9a2faa381,Scheduling Coordinator - Construction,"Remote, AZ",na,True,True,na,https://jobs.lever.co/roofstock/03d6f173-aa53-49d7-b6a0-8ed9a2faa381,Coordinator,na ,tags
+465,a33a8f89-08bc-40f7-a931-1ae8c19d5c01,Resident Coordinator,"Dallas, TX",na,False,True,na,https://jobs.lever.co/roofstock/a33a8f89-08bc-40f7-a931-1ae8c19d5c01,Coordinator,na ,tags
+466,8fa82d43-b032-4f17-af61-7397b9735063,Construction Manager,"Phoenix, AZ",na,False,True,na,https://jobs.lever.co/roofstock/8fa82d43-b032-4f17-af61-7397b9735063,Manager,Operations,tags
+467,00f9f50e-eac0-47f1-ad55-cdcf5c978b78,Leasing Coordinator,"Dallas, TX",na,False,True,na,https://jobs.lever.co/roofstock/00f9f50e-eac0-47f1-ad55-cdcf5c978b78,Coordinator,Operations,tags
+468,8439e774-52ae-479f-9d1d-e1bf52784881,Property Manager - Birmingham,"Birmingham, AL",na,False,True,na,https://jobs.lever.co/roofstock/8439e774-52ae-479f-9d1d-e1bf52784881,Manager,Property,tags
+469,f1aef230-451a-4f37-8a7d-d2b0ead1756c,Property Manager - Charlotte,"Charlotte, NC",na,False,True,na,https://jobs.lever.co/roofstock/f1aef230-451a-4f37-8a7d-d2b0ead1756c,Manager,Property,tags
+470,5dfd3c89-86e5-4aa7-8af2-4010b21d3729,Property Manager - Houston,"Houston, TX",na,False,True,na,https://jobs.lever.co/roofstock/5dfd3c89-86e5-4aa7-8af2-4010b21d3729,Manager,Property,tags
+471,b07cd477-ef53-4192-a529-62a9c98f44e7,Property Manager - Indianapolis,"Indianapolis, IN",na,False,True,na,https://jobs.lever.co/roofstock/b07cd477-ef53-4192-a529-62a9c98f44e7,Manager,Property,tags
+472,4fffcbc8-f938-4ffa-9983-837094a49164,Property Manager - Jacksonville,"Jacksonville, FL",na,False,True,na,https://jobs.lever.co/roofstock/4fffcbc8-f938-4ffa-9983-837094a49164,Manager,Property,tags
+473,065034bb-731e-4af5-877f-784644ee7a0f,Residential Construction Superintendent,"Phoenix, AZ",na,False,True,na,https://jobs.lever.co/roofstock/065034bb-731e-4af5-877f-784644ee7a0f,Management,Operations,tags
+474,e8350004-dfcd-4559-af95-a3d4794f5ced,Real Estate Analyst,"Oakland, CA",na,False,True,na,https://jobs.lever.co/roofstock/e8350004-dfcd-4559-af95-a3d4794f5ced,Business,Analyst,tags
+475,c2a1e847-04e0-4987-9db5-b785e9f32366,"Counsel, Property Management",Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/c2a1e847-04e0-4987-9db5-b785e9f32366,Management,Property,tags
+476,7bfd5d73-1163-4cdb-94aa-250c5b2e32b9,"Counsel, Property Management","Remote, GA",na,True,True,na,https://jobs.lever.co/roofstock/7bfd5d73-1163-4cdb-94aa-250c5b2e32b9,Management,Property,tags
+477,9c390f28-23ff-4432-89e3-a5b40b4c6e58,"Counsel, Property Management","Remote, TX",na,True,True,na,https://jobs.lever.co/roofstock/9c390f28-23ff-4432-89e3-a5b40b4c6e58,Management,Property,tags
+478,4a311368-0f57-4e9a-b24d-2b146594bb70,"Counsel, Property Management","Remote, AZ",na,True,True,na,https://jobs.lever.co/roofstock/4a311368-0f57-4e9a-b24d-2b146594bb70,Management,Property,tags
+479,6ca7d8bf-8f63-4422-b35d-aef7a8e7fa48,"Counsel, Property Management","Remote, MO",na,True,True,na,https://jobs.lever.co/roofstock/6ca7d8bf-8f63-4422-b35d-aef7a8e7fa48,Management,Property,tags
+480,3e8e5995-12c6-4ef6-b3d4-6365cf747903,"Counsel, Property Management","Remote, OH",na,True,True,na,https://jobs.lever.co/roofstock/3e8e5995-12c6-4ef6-b3d4-6365cf747903,Management,Property,tags
+481,0fc000d8-dbf4-435b-9d8f-943d93bd3b77,"Counsel, Property Management","Remote, IN",na,True,True,na,https://jobs.lever.co/roofstock/0fc000d8-dbf4-435b-9d8f-943d93bd3b77,Management,Property,tags
+482,9b5d30c7-1239-4b2e-8d7a-63d5dda984ab,"Marketing Manager, Demand Generation",Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/9b5d30c7-1239-4b2e-8d7a-63d5dda984ab,Manager,Marketing,tags
+483,5df7ba85-dfb1-4928-8e13-8913434e65e1,Sr Content Strategist and Copywriter,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/5df7ba85-dfb1-4928-8e13-8913434e65e1,Sales and Marketing,Marketing,tags
+484,2cc46e17-850a-4a99-9451-eae6b4a0f736,"Sr Manager, Performance Marketing",Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/2cc46e17-850a-4a99-9451-eae6b4a0f736,Manager,Marketing,tags
+485,e6f8ba77-5e29-4cef-b86a-a0fc4de60456,Senior Product Designer -  Investment Services,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/e6f8ba77-5e29-4cef-b86a-a0fc4de60456,Product,Product,tags
+486,e8050f6c-a661-45e5-b720-93826e353f7a,Senior Product Designer - Marketplace,Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/e8050f6c-a661-45e5-b720-93826e353f7a,Product,Product,tags
+487,caaae934-d6e6-4b53-98b4-15e8e8492674,"Technical Product Manager, Operations",Remote (US Only),na,True,True,na,https://jobs.lever.co/roofstock/caaae934-d6e6-4b53-98b4-15e8e8492674,Manager,Product,tags
+488,80e9f64f-4675-4b59-bf34-cfe8ddbf6bbf,Business Analyst ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/80e9f64f-4675-4b59-bf34-cfe8ddbf6bbf,Data,Data,tags
+489,014fcee6-f476-4d79-b592-b01e2ce9e0a4,Business Analyst ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/014fcee6-f476-4d79-b592-b01e2ce9e0a4,Data,Data,tags
+490,07c81a4c-5a28-4149-acff-c95ebdbfa51b,Business Analyst ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/07c81a4c-5a28-4149-acff-c95ebdbfa51b,Data,Data,tags
+491,1f74f505-2f0a-4153-a1a0-04e2d218cca1,Business Analyst ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/1f74f505-2f0a-4153-a1a0-04e2d218cca1,Data,Data,tags
+492,60ee27c2-307a-4474-8d9f-e444116e32ed,Data Analyst ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/60ee27c2-307a-4474-8d9f-e444116e32ed,Data,Data,tags
+493,5ce4feaf-64ae-494d-9c1b-893dc6a72903,Data Analyst ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/5ce4feaf-64ae-494d-9c1b-893dc6a72903,Data,Data,tags
+494,580ca035-7fce-4ff8-9017-e344d011ee8c,Data Analyst ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/580ca035-7fce-4ff8-9017-e344d011ee8c,Data,Data,tags
+495,fd84d965-7f7b-4277-945f-e22d4dac8f40,Data Analyst ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/fd84d965-7f7b-4277-945f-e22d4dac8f40,Data,Data,tags
+496,047e3193-5f17-4a1c-83a5-7226d07bfc7d,Data Scientist ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/047e3193-5f17-4a1c-83a5-7226d07bfc7d,Data,Data,tags
+497,09f4ba07-71c2-48ff-878a-bf53e46cda5c,Data Scientist ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/09f4ba07-71c2-48ff-878a-bf53e46cda5c,Data,Data,tags
+498,7e88b354-75da-4aed-88e6-49bc34b15944,Data Scientist ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/7e88b354-75da-4aed-88e6-49bc34b15944,Data,Data,tags
+499,8f755381-80ba-4349-a738-cad0a6de802a,Data Scientist ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/8f755381-80ba-4349-a738-cad0a6de802a,Data,Data,tags
+500,9cc9ee7b-aa97-455b-a7d4-5013404d5249,BE Developer ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/9cc9ee7b-aa97-455b-a7d4-5013404d5249,Developer,Developer,tags
+501,d2706149-063c-49f4-b534-738769754ecb,BE Developer ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/d2706149-063c-49f4-b534-738769754ecb,Developer,Developer,tags
+502,c4582fdd-74b6-4417-b4ec-5af7c3ec9ec9,BE Developer ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/c4582fdd-74b6-4417-b4ec-5af7c3ec9ec9,Developer,Developer,tags
+503,a5b64cb1-b102-4bd8-912a-5c92ebec9385,BE Developer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/a5b64cb1-b102-4bd8-912a-5c92ebec9385,Developer,Developer,tags
+504,915fa767-0dba-4314-8062-251a8c9da1b2,FE Developer ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/915fa767-0dba-4314-8062-251a8c9da1b2,Developer,Developer,tags
+505,05bda460-2d0e-4f3c-9704-f387f9424d73,FE Developer ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/05bda460-2d0e-4f3c-9704-f387f9424d73,Developer,Developer,tags
+506,a333ef6e-6f35-4bc9-994b-cefedfda632c,FE Developer ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/a333ef6e-6f35-4bc9-994b-cefedfda632c,Developer,Developer,tags
+507,8a0886cd-a89f-4e79-a9f4-51c83d3b6b34,FE Developer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/8a0886cd-a89f-4e79-a9f4-51c83d3b6b34,Developer,Developer,tags
+508,d49631dc-d953-4a99-8255-ce4bb74bfc60,Full Stack Developer ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/d49631dc-d953-4a99-8255-ce4bb74bfc60,Developer,Full Stack,tags
+509,23dcca98-3ceb-4f33-b9ed-a9e7ab110702,Full Stack Developer ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/23dcca98-3ceb-4f33-b9ed-a9e7ab110702,Developer,Full Stack,tags
+510,ef9b1a61-7bc3-41ba-9129-700e0a06cfd0,Full Stack Developer ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/ef9b1a61-7bc3-41ba-9129-700e0a06cfd0,Developer,Full Stack,tags
+511,1ab8a8b4-8d7f-4d1e-900a-27fba91d842a,Full Stack Developer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/1ab8a8b4-8d7f-4d1e-900a-27fba91d842a,Developer,Full Stack,tags
+512,f17e8f73-c68a-4c06-a155-378d82d37a93,UX Designer ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/f17e8f73-c68a-4c06-a155-378d82d37a93,Development,Art,tags
+513,e0a99fab-170e-4f11-be72-1c1bb888af3b,UX Designer ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/e0a99fab-170e-4f11-be72-1c1bb888af3b,Development,Art,tags
+514,7b967f20-4e0d-4c07-82b9-b5f748c37f8f,UX Designer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/7b967f20-4e0d-4c07-82b9-b5f748c37f8f,Development,Art,tags
+515,6506568a-61d3-41bc-b5fc-faae40cecb82,Dev Ops Engineer ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/6506568a-61d3-41bc-b5fc-faae40cecb82,Engineering,Operations,tags
+516,f6cac933-94b9-4dd8-88b4-aa58ea801db5,Dev Ops Engineer ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/f6cac933-94b9-4dd8-88b4-aa58ea801db5,Engineering,Operations,tags
+517,9410e157-ae42-4f08-8579-67b68d1339e3,Dev Ops Engineer ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/9410e157-ae42-4f08-8579-67b68d1339e3,Engineering,Operations,tags
+518,535ea2cb-6599-4fbc-9ce0-e048b5d58db2,Dev Ops Engineer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/535ea2cb-6599-4fbc-9ce0-e048b5d58db2,Engineering,Operations,tags
+519,02ef3766-0d5f-46a6-a4d2-60c48a5b2b89,IT Support Specialist,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/02ef3766-0d5f-46a6-a4d2-60c48a5b2b89,Engineering,Infrastructure,tags
+520,769ceb20-7f61-4254-8b24-004b3b1f4cd3,TechOps Engineer ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/769ceb20-7f61-4254-8b24-004b3b1f4cd3,Engineering,Operations,tags
+521,8ad770cb-2ce8-4297-be3d-31404455ae2e,TechOps Engineer ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/8ad770cb-2ce8-4297-be3d-31404455ae2e,Engineering,Operations,tags
+522,20d2e469-5972-4260-9fef-fa2b0d9da89b,TechOps Engineer ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/20d2e469-5972-4260-9fef-fa2b0d9da89b,Engineering,Operations,tags
+523,bffc278c-0e6c-47a7-b98f-870b7d1814fc,TechOps Engineer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/bffc278c-0e6c-47a7-b98f-870b7d1814fc,Engineering,Operations,tags
+524,b38bafc4-5d47-4ab7-9b64-5b0795b422ed,Head of Product ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/b38bafc4-5d47-4ab7-9b64-5b0795b422ed,CIO – Product,Product,tags
+525,b854eb3d-8c60-48c2-98ec-0aa4f9f68201,Product Designer ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/b854eb3d-8c60-48c2-98ec-0aa4f9f68201,CIO – Product,Product,tags
+526,44f80e5b-5452-4cf1-975f-a6125b366eb8,Product Manager ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/44f80e5b-5452-4cf1-975f-a6125b366eb8,Manager,Product,tags
+527,839ba3cd-86d4-409f-8184-3b16959c4f9d,Product Manager ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/839ba3cd-86d4-409f-8184-3b16959c4f9d,Manager,Product,tags
+528,486d40b7-aac9-46d8-b409-d0683ba1dbc8,Product Manager ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/486d40b7-aac9-46d8-b409-d0683ba1dbc8,Manager,Product,tags
+529,818523d9-cadb-47ea-b54c-6b5f59ebffac,Product Manager ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/818523d9-cadb-47ea-b54c-6b5f59ebffac,Manager,Product,tags
+530,f1c0f5da-dfc1-46a5-b0a4-7b29d15d11e1,Project Manager ,Czech Republic,na,False,True,na,https://jobs.lever.co/fevo/f1c0f5da-dfc1-46a5-b0a4-7b29d15d11e1,Manager,Product,tags
+531,34278381-09b4-4346-91ad-f5bd362a89e4,Project Manager ,Macedonia,na,False,True,na,https://jobs.lever.co/fevo/34278381-09b4-4346-91ad-f5bd362a89e4,Manager,Product,tags
+532,1a740062-ccbe-4bbe-bd61-97c4450cdedb,Project Manager ,Serbia,na,False,True,na,https://jobs.lever.co/fevo/1a740062-ccbe-4bbe-bd61-97c4450cdedb,Manager,Product,tags
+533,ec41fa10-42a4-4136-acbb-6cdf4484802f,Project Manager ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/ec41fa10-42a4-4136-acbb-6cdf4484802f,Manager,Product,tags
+534,9b5978d6-1ab6-45f1-ab32-25889681599d,Senior Product Manager ,"New York, NY",na,False,True,na,https://jobs.lever.co/fevo/9b5978d6-1ab6-45f1-ab32-25889681599d,Manager,Product,tags
+535,4fa2e54b-371b-4b35-b3d8-bc4020047c70,"Director, Product Marketing ","Austin, TX Metropolitan Area",na,False,True,na,https://jobs.lever.co/fevo/4fa2e54b-371b-4b35-b3d8-bc4020047c70,Director,Product,tags
+536,8b114e5c-f1e3-4b71-99d6-0ed6134a4640,"Director, Product Marketing ","Los Angeles, CA",na,False,True,na,https://jobs.lever.co/fevo/8b114e5c-f1e3-4b71-99d6-0ed6134a4640,Director,Product,tags
+537,0e68a43c-e092-4e6a-a05a-d3b417701b98,"Director, Product Marketing ",San Francisco Metro Area,na,False,True,na,https://jobs.lever.co/fevo/0e68a43c-e092-4e6a-a05a-d3b417701b98,Director,Product,tags
+538,fe4da257-97ca-4ae8-845f-96b5f62d7ed1,"Director, Product Marketing ","New York, NY",na,False,True,na,https://jobs.lever.co/fevo/fe4da257-97ca-4ae8-845f-96b5f62d7ed1,Director,Product,tags
+539,d9bab331-abd4-4afd-9210-4cbb39319b7a,Partner Solutions Associate ,Florida,na,False,True,na,https://jobs.lever.co/fevo/d9bab331-abd4-4afd-9210-4cbb39319b7a,Sales and Marketing,Sales,tags
+540,7279900c-2a5c-4cea-825f-dc373408b9cf,Partner Solutions Associate ,Montana,na,False,True,na,https://jobs.lever.co/fevo/7279900c-2a5c-4cea-825f-dc373408b9cf,Sales and Marketing,Sales,tags
+541,4e03b094-c678-43ed-b967-7c869803beee,Partner Solutions Associate ,Nebraska,na,False,True,na,https://jobs.lever.co/fevo/4e03b094-c678-43ed-b967-7c869803beee,Sales and Marketing,Sales,tags
+542,7d25cf2d-2e58-4251-be39-301e230c4cb7,Partner Solutions Associate ,Nevada,na,False,True,na,https://jobs.lever.co/fevo/7d25cf2d-2e58-4251-be39-301e230c4cb7,Sales and Marketing,Sales,tags
+543,0149ed98-fbb8-4848-a27c-f684075803ee,Partner Solutions Associate ,New Mexico,na,False,True,na,https://jobs.lever.co/fevo/0149ed98-fbb8-4848-a27c-f684075803ee,Sales and Marketing,Sales,tags
+544,80ce1aa9-d3cb-4640-8284-d3349beddb0b,Partner Solutions Associate ,North Carolina,na,False,True,na,https://jobs.lever.co/fevo/80ce1aa9-d3cb-4640-8284-d3349beddb0b,Sales and Marketing,Sales,tags
+545,52dcda51-d337-4a42-ba59-db955cd3fdcb,Partner Solutions Associate ,Ohio,na,False,True,na,https://jobs.lever.co/fevo/52dcda51-d337-4a42-ba59-db955cd3fdcb,Sales and Marketing,Sales,tags
+546,c9665387-99a5-43ff-b3fc-d5117a3b3c48,Partner Solutions Associate ,Oregon,na,False,True,na,https://jobs.lever.co/fevo/c9665387-99a5-43ff-b3fc-d5117a3b3c48,Sales and Marketing,Sales,tags
+547,26f866de-d52e-4899-aa4f-67119478ce51,Partner Solutions Associate ,South Carolina,na,False,True,na,https://jobs.lever.co/fevo/26f866de-d52e-4899-aa4f-67119478ce51,Sales and Marketing,Sales,tags
+548,a7b67743-dbec-4808-aff6-9dcf0cfc0dec,Partner Solutions Associate ,Texas,na,False,True,na,https://jobs.lever.co/fevo/a7b67743-dbec-4808-aff6-9dcf0cfc0dec,Sales and Marketing,Sales,tags
+549,b361628b-d3c2-48ff-8e9f-c9e85cbbca63,Partner Solutions Associate ,Utah,na,False,True,na,https://jobs.lever.co/fevo/b361628b-d3c2-48ff-8e9f-c9e85cbbca63,Sales and Marketing,Sales,tags
+550,c81c0684-51f4-44c4-a31a-221777b62dc8,Partner Solutions Associate ,Wyoming,na,False,True,na,https://jobs.lever.co/fevo/c81c0684-51f4-44c4-a31a-221777b62dc8,Sales and Marketing,Sales,tags
+551,18032a2d-8641-486f-bf77-fdc3f85bd354,Customer Support Associate ,Florida,na,False,True,na,https://jobs.lever.co/fevo/18032a2d-8641-486f-bf77-fdc3f85bd354,Sales and Marketing,Sales,tags
+552,d9435b12-370c-4405-a511-fb67a0dfadab,Customer Support Associate ,Montana,na,False,True,na,https://jobs.lever.co/fevo/d9435b12-370c-4405-a511-fb67a0dfadab,Sales and Marketing,Sales,tags
+553,33a7ae87-72fa-4490-9ad5-e4c20f74611b,Customer Support Associate ,Nebraska,na,False,True,na,https://jobs.lever.co/fevo/33a7ae87-72fa-4490-9ad5-e4c20f74611b,Sales and Marketing,Sales,tags
+554,b005d3e5-f4db-4fa7-95b1-7ea76d96b885,Customer Support Associate ,Nevada,na,False,True,na,https://jobs.lever.co/fevo/b005d3e5-f4db-4fa7-95b1-7ea76d96b885,Sales and Marketing,Sales,tags
+555,7ef1bf45-0a10-43fd-acb5-8b12aae63e13,Customer Support Associate ,New Hampshire,na,False,True,na,https://jobs.lever.co/fevo/7ef1bf45-0a10-43fd-acb5-8b12aae63e13,Sales and Marketing,Sales,tags
+556,4251f084-2401-4d29-a607-c0081884cff3,Customer Support Associate ,New Mexico,na,False,True,na,https://jobs.lever.co/fevo/4251f084-2401-4d29-a607-c0081884cff3,Sales and Marketing,Sales,tags
+557,65142b27-f4c0-45fd-9f97-e2325f516fc5,Customer Support Associate ,North Carolina,na,False,True,na,https://jobs.lever.co/fevo/65142b27-f4c0-45fd-9f97-e2325f516fc5,Sales and Marketing,Sales,tags
+558,d7139953-323b-4fc6-977e-001a5d335b5d,Customer Support Associate ,Ohio,na,False,True,na,https://jobs.lever.co/fevo/d7139953-323b-4fc6-977e-001a5d335b5d,Sales and Marketing,Sales,tags
+559,72234c79-8ab3-46b3-acc4-d57a5a56b38b,Customer Support Associate ,Oregon,na,False,True,na,https://jobs.lever.co/fevo/72234c79-8ab3-46b3-acc4-d57a5a56b38b,Sales and Marketing,Sales,tags
+560,6777c86b-b4f3-424d-8941-b15f28077ff9,Customer Support Associate ,South Carolina,na,False,True,na,https://jobs.lever.co/fevo/6777c86b-b4f3-424d-8941-b15f28077ff9,Sales and Marketing,Sales,tags
+561,6d5877a5-c4ed-4ac7-ae9e-9ce60896bd6f,Customer Support Associate ,Texas,na,False,True,na,https://jobs.lever.co/fevo/6d5877a5-c4ed-4ac7-ae9e-9ce60896bd6f,Sales and Marketing,Sales,tags
+562,80fa6242-ca42-4c00-85fd-662d592e7ffe,Customer Support Associate ,Utah,na,False,True,na,https://jobs.lever.co/fevo/80fa6242-ca42-4c00-85fd-662d592e7ffe,Sales and Marketing,Sales,tags
+563,f6bbe29b-4e2d-4efc-83b3-a9c70e5086d7,Customer Support Associate ,Wyoming,na,False,True,na,https://jobs.lever.co/fevo/f6bbe29b-4e2d-4efc-83b3-a9c70e5086d7,Sales and Marketing,Sales,tags

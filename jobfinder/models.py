@@ -5,8 +5,6 @@ from flask_login import UserMixin
 
 # Create data models here
 
-
-
 @login_manager.user_loader
 def load_user(user_id):
     return User.query.get(int(user_id))
@@ -20,19 +18,23 @@ class Job(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     jobid = db.Column(db.String, unique=True)
     position = db.Column(db.String)
-    joburl = db.Column(db.String)
-    categor = db.Column(db.String)
-    subcategor = db.Column(db.String)
+    location = db.Column(db.String)
     company = db.Column(db.String)
     remote = db.Column(db.String)
     status = db.Column(db.String)
     description = db.Column(db.String)
+    joburl = db.Column(db.String)
+    categor = db.Column(db.String)
+    subcategor = db.Column(db.String)
+    tags  = db.Column(db.String)
+
+
 
 
     # Repesents the unique id when queried for data
 
     def __repr__(self):
-        return f'<Job:{self.position}>'
+        return f'<Job:{self.position}, Job url: {self.joburl}>'
 
     # serializing the data
     def serialize(self):
@@ -40,13 +42,15 @@ class Job(db.Model):
             'id' 			: self.id,
             'jobid'			: self.jobid,
             'position'		: self.position,
+            'location'      : self.location,
+            'company'       : self.company,
+            'remote'        : self.remote,
+            'status'        : self.status,
+            'description'   : self.description,
             'joburl' 		: self.joburl,
             'categor'		: self.categor,
             'subcategor' 	: self.subcategor,
-            'company'		: self.company,
-            'remote'		: self.remote,
-            'status'		: self.status,
-            'description'	: self.description
+            'tags'          : self.tags
         }
 
 
