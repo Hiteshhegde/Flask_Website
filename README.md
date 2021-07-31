@@ -21,7 +21,7 @@ Create User and DataBase:
 Grant privileges on the database to the user which you created in the previous commands:  
 ***sudo -u postgres psql***  
 ***grant all privileges on yourdbname  to yourusername;***  
-***alter user devopsuser with password 'yourpassword';***  
+***alter user yourusername with password 'yourpassword';***  
 
 Run following to exit from psql:  
 ***\q***  
