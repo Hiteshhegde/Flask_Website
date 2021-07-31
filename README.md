@@ -1,4 +1,4 @@
-# Flask_Website
+# JobFinder
 ## Basic website with full functionality  written in Flask
 ##### Built using Flask Python and Postgres.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
